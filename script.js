@@ -1,1 +1,1 @@
-// all code for leaflet goes here
+// all other js code

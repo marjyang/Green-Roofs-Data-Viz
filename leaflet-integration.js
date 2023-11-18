@@ -1,7 +1,7 @@
 var map = L.map('map').setView([40.785091, -73.968285], 13);
 
 L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
-    maxZoom: 19,
+    maxZoom: 10,
     attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
 }).addTo(map);
 
@@ -65,8 +65,8 @@ function displayData(combinedData) {
         combinedData.forEach(function(item) {
             var div = document.createElement('div');
             div.innerHTML = 'Climate: ' + item.climate + '<br>' +
-                            'Vegetative Cover: ' + item.vegetativeCover + '<br>' +
-                            'Distance to Park: ' + item.distanceToPark;
+                            'Current Vegetative Cover: ' + item.vegetativeCover + '<br>' +
+                            'Park Proximity: ' + item.distanceToPark;
             output.appendChild(div);
         });
     } else {
