@@ -19,10 +19,18 @@
      crossorigin=""></script>
     <script defer src = "/leaflet-integration.js"></script>
 
+    <!-- papaparse script -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
 
 </head>
 <body>
     <div id="map"></div>
+    <h1>know your neighborhood</h1>
+    <div>
+        <input type="text" id="zipCodeInput" placeholder="Enter ZIP Code">
+        <button id="submitBtn">Submit</button>
+    </div>
+    <div id="output"></div>
 
 </body>
 </html>
