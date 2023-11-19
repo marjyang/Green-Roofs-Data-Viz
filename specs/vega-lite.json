@@ -1,0 +1,22 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "description": "A map of neighborhoods.",
+    "data": {
+      "url": "data/EH-Data-Portal-NTA-2020.topo.json",
+      "format": {
+        "type": "topojson",
+        "feature": "neighborhoods"
+      }
+    },
+    "mark": "geoshape",
+    "encoding": {
+      "color": {
+        "field": "someProperty",
+        "type": "quantitative"
+      },
+      "tooltip": [
+        {"field": "neighborhoodName", "type": "nominal", "title": "Neighborhood"}
+      ]
+    }
+  }
+  

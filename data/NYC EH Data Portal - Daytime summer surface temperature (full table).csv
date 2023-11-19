@@ -1,0 +1,296 @@
+Time,GeoType,GeoID,GeoRank,Geography,Degrees Fahrenheit
+2018,NTA2010,501,8,Claremont-Bathgate,100.0
+2018,NTA2010,503,8,Eastchester-Edenwald-Baychester,99.8
+2018,NTA2010,505,8,Bedford Park-Fordham North,97.4
+2018,NTA2010,506,8,Belmont,98.7
+2018,NTA2010,507,8,Bronxdale,98.4
+2018,NTA2010,508,8,West Farms-Bronx River,98.5
+2018,NTA2010,509,8,Soundview-Castle Hill-Clason Point-Harding Park,98.7
+2018,NTA2010,510,8,Pelham Bay-Country Club-City Island,97.1
+2018,NTA2010,513,8,Co-op City,97.2
+2018,NTA2010,514,8,East Concourse-Concourse Village,99.2
+2018,NTA2010,517,8,East Tremont,99.6
+2018,NTA2010,522,8,North Riverdale-Fieldston-Riverdale,93.8
+2018,NTA2010,526,8,Highbridge,98.3
+2018,NTA2010,527,8,Hunts Point,100.4
+2018,NTA2010,528,8,Van Cortlandt Village,95.6
+2018,NTA2010,529,8,Spuyten Duyvil-Kingsbridge,96.0
+2018,NTA2010,530,8,Kingsbridge Heights,97.3
+2018,NTA2010,531,8,Allerton-Pelham Gardens,100.3
+2018,NTA2010,533,8,Longwood,100.5
+2018,NTA2010,534,8,Melrose South-Mott Haven North,101.1
+2018,NTA2010,535,8,Morrisania-Melrose,99.6
+2018,NTA2010,536,8,University Heights-Morris Heights,97.8
+2018,NTA2010,537,8,Van Nest-Morris Park-Westchester Square,100.6
+2018,NTA2010,539,8,Mott Haven-Port Morris,99.8
+2018,NTA2010,540,8,Fordham South,97.9
+2018,NTA2010,541,8,Mount Hope,98.4
+2018,NTA2010,543,8,Norwood,95.8
+2018,NTA2010,544,8,Williamsbridge-Olinville,98.9
+2018,NTA2010,546,8,Parkchester,99.1
+2018,NTA2010,549,8,Pelham Parkway,99.0
+2018,NTA2010,552,8,Schuylerville-Throgs Neck-Edgewater Park,98.3
+2018,NTA2010,555,8,Soundview-Bruckner,98.0
+2018,NTA2010,559,8,Westchester-Unionport,100.1
+2018,NTA2010,562,8,Woodlawn-Wakefield,99.2
+2018,NTA2010,563,8,West Concourse,97.9
+2018,NTA2010,575,8,Crotona Park East,100.0
+2018,NTA2010,4709,8,Brooklyn Heights-Cobble Hill,95.7
+2018,NTA2010,4717,8,Sheepshead Bay-Gerritsen Beach-Manhattan Beach,96.2
+2018,NTA2010,4719,8,Brighton Beach,95.5
+2018,NTA2010,4721,8,Seagate-Coney Island,95.4
+2018,NTA2010,4723,8,West Brighton,95.9
+2018,NTA2010,4725,8,Homecrest,99.8
+2018,NTA2010,4726,8,Gravesend,97.1
+2018,NTA2010,4727,8,Bath Beach,93.9
+2018,NTA2010,4728,8,Bensonhurst West,96.6
+2018,NTA2010,4729,8,Bensonhurst East,97.4
+2018,NTA2010,4730,8,Dyker Heights,96.1
+2018,NTA2010,4731,8,Bay Ridge,94.0
+2018,NTA2010,4732,8,Sunset Park West,97.5
+2018,NTA2010,4733,8,Carroll Gardens-Columbia Street-Red Hook,97.0
+2018,NTA2010,4734,8,Sunset Park East,96.7
+2018,NTA2010,4735,8,Stuyvesant Heights,98.4
+2018,NTA2010,4737,8,Park Slope-Gowanus,96.5
+2018,NTA2010,4738,8,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,98.1
+2018,NTA2010,4740,8,Windsor Terrace,95.6
+2018,NTA2010,4741,8,Kensington-Ocean Parkway,97.9
+2018,NTA2010,4742,8,Flatbush,97.1
+2018,NTA2010,4743,8,Midwood,100.0
+2018,NTA2010,4744,8,Madison,99.6
+2018,NTA2010,4745,8,Georgetown-Marine Park-Bergen Beach-Mill Basin,99.4
+2018,NTA2010,4746,8,Ocean Parkway South,99.9
+2018,NTA2010,4750,8,Canarsie,99.2
+2018,NTA2010,4758,8,Flatlands,100.5
+2018,NTA2010,4760,8,Prospect Lefferts Gardens-Wingate,97.8
+2018,NTA2010,4761,8,Crown Heights North,97.8
+2018,NTA2010,4763,8,Crown Heights South,97.0
+2018,NTA2010,4764,8,Prospect Heights,96.6
+2018,NTA2010,4768,8,Fort Greene,97.6
+2018,NTA2010,4769,8,Clinton Hill,97.9
+2018,NTA2010,4772,8,Williamsburg,100.9
+2018,NTA2010,4773,8,North Side-South Side,99.3
+2018,NTA2010,4775,8,Bedford,99.1
+2018,NTA2010,4776,8,Greenpoint,98.7
+2018,NTA2010,4777,8,Bushwick North,99.5
+2018,NTA2010,4778,8,Bushwick South,100.7
+2018,NTA2010,4779,8,Ocean Hill,100.6
+2018,NTA2010,4781,8,Brownsville,100.7
+2018,NTA2010,4782,8,East New York,100.7
+2018,NTA2010,4783,8,Cypress Hills-City Line,99.0
+2018,NTA2010,4785,8,East New York (Pennsylvania Ave),100.9
+2018,NTA2010,4788,8,Borough Park,99.9
+2018,NTA2010,4790,8,East Williamsburg,100.0
+2018,NTA2010,4791,8,East Flatbush-Farragut,100.5
+2018,NTA2010,4793,8,Starrett City,95.5
+2018,NTA2010,4795,8,Erasmus,98.6
+2018,NTA2010,4796,8,Rugby-Remsen Village,99.6
+2018,NTA2010,6101,8,Marble Hill-Inwood,97.1
+2018,NTA2010,6103,8,Central Harlem North-Polo Grounds,98.4
+2018,NTA2010,6104,8,Hamilton Heights,95.1
+2018,NTA2010,6106,8,Manhattanville,96.8
+2018,NTA2010,6109,8,Morningside Heights,96.2
+2018,NTA2010,6111,8,Central Harlem South,98.3
+2018,NTA2010,6112,8,Upper West Side,95.5
+2018,NTA2010,6113,8,Hudson Yards-Chelsea-Flatiron-Union Square,99.1
+2018,NTA2010,6114,8,Lincoln Square,96.4
+2018,NTA2010,6115,8,Clinton,98.3
+2018,NTA2010,6117,8,Midtown-Midtown South,97.5
+2018,NTA2010,6119,8,Turtle Bay-East Midtown,97.2
+2018,NTA2010,6120,8,Murray Hill-Kips Bay,97.8
+2018,NTA2010,6121,8,Gramercy,99.9
+2018,NTA2010,6122,8,East Village,98.3
+2018,NTA2010,6123,8,West Village,98.0
+2018,NTA2010,6124,8,SoHo-TriBeCa-Civic Center-Little Italy,98.7
+2018,NTA2010,6125,8,Battery Park City-Lower Manhattan,92.6
+2018,NTA2010,6127,8,Chinatown,97.8
+2018,NTA2010,6128,8,Lower East Side,97.4
+2018,NTA2010,6131,8,Lenox Hill-Roosevelt Island,96.2
+2018,NTA2010,6132,8,Yorkville,96.6
+2018,NTA2010,6133,8,East Harlem South,97.8
+2018,NTA2010,6134,8,East Harlem North,98.2
+2018,NTA2010,6135,8,Washington Heights North,94.6
+2018,NTA2010,6136,8,Washington Heights South,95.6
+2018,NTA2010,6140,8,Upper East Side-Carnegie Hill,97.5
+2018,NTA2010,6150,8,Stuyvesant Town-Cooper Village,94.1
+2018,NTA2010,8101,8,South Jamaica,102.8
+2018,NTA2010,8102,8,Springfield Gardens North,101.5
+2018,NTA2010,8103,8,Springfield Gardens South-Brookville,101.2
+2018,NTA2010,8105,8,Rosedale,99.2
+2018,NTA2010,8106,8,Jamaica Estates-Holliswood,98.4
+2018,NTA2010,8107,8,Hollis,102.4
+2018,NTA2010,8108,8,St. Albans,102.3
+2018,NTA2010,8110,8,Breezy Point-Belle Harbor-Rockaway Park-Broad Channel,94.3
+2018,NTA2010,8112,8,Hammels-Arverne-Edgemere,93.7
+2018,NTA2010,8115,8,Far Rockaway-Bayswater,95.9
+2018,NTA2010,8117,8,Forest Hills,98.6
+2018,NTA2010,8118,8,Rego Park,100.1
+2018,NTA2010,8119,8,Glendale,97.6
+2018,NTA2010,8120,8,Ridgewood,96.4
+2018,NTA2010,8121,8,Middle Village,98.5
+2018,NTA2010,8122,8,Flushing,99.8
+2018,NTA2010,8123,8,College Point,99.7
+2018,NTA2010,8125,8,Corona,100.7
+2018,NTA2010,8126,8,North Corona,100.3
+2018,NTA2010,8127,8,East Elmhurst,101.2
+2018,NTA2010,8128,8,Jackson Heights,99.0
+2018,NTA2010,8129,8,Elmhurst,100.9
+2018,NTA2010,8130,8,Maspeth,99.7
+2018,NTA2010,8131,8,Hunters Point-Sunnyside-West Maspeth,99.1
+2018,NTA2010,8133,8,Cambria Heights,102.4
+2018,NTA2010,8134,8,Queens Village,102.7
+2018,NTA2010,8135,8,Briarwood-Jamaica Hills,101.1
+2018,NTA2010,8137,8,Kew Gardens Hills,100.3
+2018,NTA2010,8138,8,Pomonok-Flushing Heights-Hillcrest,101.1
+2018,NTA2010,8141,8,Fresh Meadows-Utopia,99.9
+2018,NTA2010,8142,8,Oakland Gardens,98.0
+2018,NTA2010,8143,8,Bellerose,100.6
+2018,NTA2010,8144,8,Glen Oaks-Floral Park-New Hyde Park,100.0
+2018,NTA2010,8145,8,Douglas Manor-Douglaston-Little Neck,97.0
+2018,NTA2010,8146,8,Bayside-Bayside Hills,100.2
+2018,NTA2010,8147,8,Ft. Totten-Bay Terrace-Clearview,98.0
+2018,NTA2010,8148,8,Auburndale,101.4
+2018,NTA2010,8149,8,Whitestone,99.9
+2018,NTA2010,8150,8,Elmhurst-Maspeth,99.9
+2018,NTA2010,8151,8,Murray Hill,100.1
+2018,NTA2010,8152,8,East Flushing,101.4
+2018,NTA2010,8153,8,Woodhaven,100.4
+2018,NTA2010,8154,8,Richmond Hill,102.3
+2018,NTA2010,8155,8,South Ozone Park,102.4
+2018,NTA2010,8156,8,Ozone Park,101.3
+2018,NTA2010,8157,8,Lindenwood-Howard Beach,96.9
+2018,NTA2010,8160,8,Kew Gardens,98.1
+2018,NTA2010,8161,8,Jamaica,102.6
+2018,NTA2010,8162,8,Queensboro Hill,100.0
+2018,NTA2010,8163,8,Woodside,100.2
+2018,NTA2010,8166,8,Laurelton,102.1
+2018,NTA2010,8168,8,Queensbridge-Ravenswood-Long Island City,100.0
+2018,NTA2010,8170,8,Astoria,97.6
+2018,NTA2010,8171,8,Old Astoria,97.6
+2018,NTA2010,8172,8,Steinway,97.8
+2018,NTA2010,8176,8,Baisley Park,101.7
+2018,NTA2010,8501,8,Annadale-Huguenot-Prince's Bay-Eltingville,95.9
+2018,NTA2010,8505,8,New Springville-Bloomfield-Travis,96.7
+2018,NTA2010,8507,8,Westerleigh,99.2
+2018,NTA2010,8508,8,Grymes Hill-Clifton-Fox Hills,95.5
+2018,NTA2010,8511,8,Charleston-Richmond Valley-Tottenville,94.0
+2018,NTA2010,8512,8,Mariner's Harbor-Arlington-Port Ivory-Graniteville,100.2
+2018,NTA2010,8514,8,Grasmere-Arrochar-Ft. Wadsworth,95.4
+2018,NTA2010,8522,8,West New Brighton-New Brighton-St. George,96.7
+2018,NTA2010,8524,8,Todt Hill-Emerson Hill-Heartland Village-Lighthouse Hill,97.6
+2018,NTA2010,8525,8,Oakwood-Oakwood Beach,96.0
+2018,NTA2010,8528,8,Port Richmond,101.6
+2018,NTA2010,8532,8,Rossville-Woodrow,96.9
+2018,NTA2010,8535,8,New Brighton-Silver Lake,96.6
+2018,NTA2010,8536,8,Old Town-Dongan Hills-South Beach,97.1
+2018,NTA2010,8537,8,Stapleton-Rosebank,96.4
+2018,NTA2010,8545,8,New Dorp-Midland Beach,99.1
+2018,NTA2010,8548,8,Arden Heights,97.7
+2018,NTA2010,8554,8,Great Kills,98.5
+2018,CD,101,6,Financial District (CD1),94.0
+2018,CD,102,6,Greenwich Village and Soho (CD2),98.3
+2018,CD,103,6,Lower East Side and Chinatown (CD3),97.6
+2018,CD,104,6,Clinton and Chelsea (CD4),98.5
+2018,CD,105,6,Midtown (CD5),98.0
+2018,CD,106,6,Stuyvesant Town and Turtle Bay (CD6),97.4
+2018,CD,107,6,Upper West Side (CD7),95.6
+2018,CD,108,6,Upper East Side (CD8),96.5
+2018,CD,109,6,Morningside Heights and Hamilton Heights (CD9),95.5
+2018,CD,110,6,Central Harlem (CD10),98.3
+2018,CD,111,6,East Harlem (CD11),97.4
+2018,CD,112,6,Washington Heights and Inwood (CD12),93.7
+2018,CD,201,6,Mott Haven and Melrose (CD1),100.6
+2018,CD,202,6,Hunts Point and Longwood (CD2),100.8
+2018,CD,203,6,Morrisania and Crotona (CD3),99.4
+2018,CD,204,6,Highbridge and Concourse (CD4),98.4
+2018,CD,205,6,Fordham and University Heights (CD5),98.1
+2018,CD,206,6,Belmont and East Tremont (CD6),99.4
+2018,CD,207,6,Kingsbridge Heights and Bedford (CD7),97.1
+2018,CD,208,6,Riverdale and Fieldston (CD8),93.5
+2018,CD,209,6,Parkchester and Soundview (CD9),98.5
+2018,CD,210,6,Throgs Neck and Co-op City (CD10),97.1
+2018,CD,211,6,Morris Park and Bronxdale (CD11),100.1
+2018,CD,212,6,Williamsbridge and Baychester (CD12),98.3
+2018,CD,301,6,Greenpoint and Williamsburg (CD1),100.4
+2018,CD,302,6,Fort Greene and Brooklyn Heights (CD2),97.7
+2018,CD,303,6,Bedford Stuyvesant (CD3),98.9
+2018,CD,304,6,Bushwick (CD4),99.5
+2018,CD,305,6,East New York and Starrett City (CD5),100.0
+2018,CD,306,6,Park Slope and Carroll Gardens (CD6),97.2
+2018,CD,307,6,Sunset Park (CD7),96.5
+2018,CD,308,6,Crown Heights and Prospect Heights (CD8),97.5
+2018,CD,309,6,South Crown Heights and Lefferts Gardens (CD9),97.6
+2018,CD,310,6,Bay Ridge and Dyker Heights (CD10),94.3
+2018,CD,311,6,Bensonhurst (CD11),96.3
+2018,CD,312,6,Borough Park (CD12),99.4
+2018,CD,313,6,Coney Island (CD13),96.1
+2018,CD,314,6,Flatbush and Midwood (CD14),98.6
+2018,CD,315,6,Sheepshead Bay (CD15),97.7
+2018,CD,316,6,Brownsville (CD16),100.9
+2018,CD,317,6,East Flatbush (CD17),99.5
+2018,CD,318,6,Flatlands and Canarsie (CD18),98.2
+2018,CD,401,6,Long Island City and Astoria (CD1),98.5
+2018,CD,402,6,Woodside and Sunnyside (CD2),100.0
+2018,CD,403,6,Jackson Heights (CD3),99.7
+2018,CD,404,6,Elmhurst and Corona (CD4),100.7
+2018,CD,405,6,Ridgewood and Maspeth (CD5),97.6
+2018,CD,406,6,Rego Park and Forest Hills (CD6),98.8
+2018,CD,407,6,Flushing and Whitestone (CD7),99.4
+2018,CD,408,6,Hillcrest and Fresh Meadows (CD8),98.6
+2018,CD,409,6,Kew Gardens and Woodhaven (CD9),101.1
+2018,CD,410,6,South Ozone Park and Howard Beach (CD10),99.9
+2018,CD,411,6,Bayside and Little Neck (CD11),97.7
+2018,CD,412,6,Jamaica and Hollis (CD12),102.2
+2018,CD,413,6,Queens Village (CD13),100.8
+2018,CD,414,6,Rockaway and Broad Channel (CD14),94.8
+2018,CD,501,6,St. George and Stapleton (CD1),97.6
+2018,CD,502,6,South Beach and Willowbrook (CD2),94.6
+2018,CD,503,6,Tottenville and Great Kills (CD3),95.1
+2018,UHF42,101,4,Kingsbridge - Riverdale,92.2
+2018,UHF42,102,4,Northeast Bronx,99.2
+2018,UHF42,103,4,Fordham - Bronx Pk,95.5
+2018,UHF42,104,4,Pelham - Throgs Neck,96.0
+2018,UHF42,105,4,Crotona -Tremont,97.7
+2018,UHF42,106,4,High Bridge - Morrisania,99.4
+2018,UHF42,107,4,Hunts Point - Mott Haven,100.7
+2018,UHF42,201,4,Greenpoint,99.6
+2018,UHF42,202,4,Downtown - Heights - Slope,97.6
+2018,UHF42,203,4,Bedford Stuyvesant - Crown Heights,98.5
+2018,UHF42,204,4,East New York,99.9
+2018,UHF42,205,4,Sunset Park,96.3
+2018,UHF42,206,4,Borough Park,98.6
+2018,UHF42,207,4,East Flatbush - Flatbush,98.0
+2018,UHF42,208,4,Canarsie - Flatlands,95.9
+2018,UHF42,209,4,Bensonhurst - Bay Ridge,94.8
+2018,UHF42,210,4,Coney Island - Sheepshead Bay,97.1
+2018,UHF42,211,4,Williamsburg - Bushwick,100.6
+2018,UHF42,301,4,Washington Heights,94.0
+2018,UHF42,302,4,Central Harlem - Morningside Heights,97.4
+2018,UHF42,303,4,East Harlem,97.6
+2018,UHF42,304,4,Upper West Side,95.5
+2018,UHF42,305,4,Upper East Side,96.4
+2018,UHF42,306,4,Chelsea - Clinton,98.3
+2018,UHF42,307,4,Gramercy Park - Murray Hill,97.5
+2018,UHF42,308,4,Greenwich Village - SoHo,98.0
+2018,UHF42,309,4,Union Square - Lower East Side,97.8
+2018,UHF42,310,4,Lower Manhattan,93.5
+2018,UHF42,401,4,Long Island City - Astoria,99.1
+2018,UHF42,402,4,West Queens,99.9
+2018,UHF42,403,4,Flushing - Clearview,99.4
+2018,UHF42,404,4,Bayside - Little Neck,96.6
+2018,UHF42,405,4,Ridgewood - Forest Hills,96.6
+2018,UHF42,406,4,Fresh Meadows,98.6
+2018,UHF42,407,4,Southwest Queens,100.3
+2018,UHF42,408,4,Jamaica,101.4
+2018,UHF42,409,4,Southeast Queens,100.6
+2018,UHF42,410,4,Rockaways,92.7
+2018,UHF42,501,4,Port Richmond,99.1
+2018,UHF42,502,4,Stapleton - St. George,95.0
+2018,UHF42,503,4,Willowbrook,94.8
+2018,UHF42,504,4,South Beach - Tottenville,94.9
+2018,Borough,1,1,Bronx,97.1
+2018,Borough,2,1,Brooklyn,98.6
+2018,Borough,3,1,Manhattan,98.3
+2018,Borough,4,1,Queens,100.0
+2018,Borough,5,1,Staten Island,97.4
+2018,Citywide,1,0,New York City,98.6
