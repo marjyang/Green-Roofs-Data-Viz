@@ -1,0 +1,195 @@
+geography,Coverage Percentage,Degrees Fahrenheit,Walkability Percent,Latitude,Longitude,lat,lng
+Greenpoint,12.4,99.6,89,40.7237134,-73.9509714,40.7295,-73.9495
+East New York,33.8,99.9,84,40.6667702,-73.8823583,,
+Borough Park,22.6,98.6,63,40.633993,-73.9968059,40.6329,-73.9895
+Upper West Side,32.1,95.5,99,40.7870455,-73.9754163,,
+Jamaica,15,101.4,90,40.7029134,-73.8006429,40.704,-73.7956
+Port Richmond,36.4,99.1,56,40.6331592,-74.1365318,40.6338,-74.1332
+Claremont-Bathgate,21.7,100,100,,,,
+Eastchester-Edenwald-Baychester,38.1,99.8,77,,,40.8815,-73.8366
+Bedford Park-Fordham North,17.3,97.4,97,,,,
+Belmont,24.4,98.7,95,42.2231241,-78.0344506,40.8576,-73.8871
+Bronxdale,26.9,98.4,99,40.8506558,-73.8665241,,
+West Farms-Bronx River,21.8,98.5,99,40.8412905,-73.8778302,,
+Soundview-Castle Hill-Clason Point-Harding Park,33.7,98.7,94,,,,
+Pelham Bay-Country Club-City Island,36.9,97.1,69,,,40.8456,-73.8115
+Co-op City,33.9,97.2,29,40.8738889,-73.8294444,40.8723,-73.8263
+East Concourse-Concourse Village,15,99.2,100,40.8253218,-73.9187183,,
+East Tremont,20.2,99.6,99,40.8453781,-73.8909693,,
+North Riverdale-Fieldston-Riverdale,63.4,93.8,77,,,,
+Highbridge,24,98.3,95,40.84591775,-73.92984479,40.8369,-73.9278
+Hunts Point,11.2,100.4,84,40.8126008,-73.8840247,40.8109,-73.885
+Van Cortlandt Village,26.8,95.6,97,41.2054773,-73.8901119,,
+Spuyten Duyvil-Kingsbridge,39.2,96,98,,,,
+Kingsbridge Heights,25.7,97.3,94,40.8725702,-73.9026619,,
+Allerton-Pelham Gardens,31.6,100.3,79,,,,
+Longwood,18.4,100.5,100,42.9531152,-78.3694646,40.821,-73.8966
+Melrose South-Mott Haven North,23.2,101.1,99,,,,
+Morrisania-Melrose,24.3,99.6,100,40.8265416,-73.90420292,,
+University Heights-Morris Heights,26.4,97.8,99,40.8502266,-73.9289147,,
+Van Nest-Morris Park-Westchester Square,23.9,100.6,71,,,,
+Mott Haven-Port Morris,20.2,99.8,94,40.807837,-73.90642493,40.8075,-73.9172
+Fordham South,11.4,97.9,100,40.746512,-73.509785,,
+Mount Hope,14.1,98.4,100,41.4445382,-74.5218263,40.8499,-73.9044
+Norwood,29.5,95.8,100,44.75161,-74.994392,40.8771,-73.879
+Williamsbridge-Olinville,24,98.9,62,,,40.881,-73.8607
+Parkchester,34.5,99.1,63,40.8332047,-73.8609723,40.8377,-73.858
+Pelham Parkway,35.2,99,84,40.857229,-73.8676281,,
+Schuylerville-Throgs Neck-Edgewater Park,45,98.3,55,,,,
+Soundview-Bruckner,24.5,98,93,,,,
+Westchester-Unionport,18.3,100.1,83,40.8338728,-73.8573014,,
+Woodlawn-Wakefield,29.5,99.2,49,,,,
+West Concourse,19.2,97.9,100,40.704992,-73.251255,,
+Crotona Park East,23,100,99,40.8366261,-73.8925344,40.8321,-73.8887
+Brooklyn Heights-Cobble Hill,27,95.7,100,40.6905236,-73.9946003,,
+Sheepshead Bay-Gerritsen Beach-Manhattan Beach,25.2,96.2,78,,,,
+Brighton Beach,16.8,95.5,98,40.57964365,-73.96111023,40.5791,-73.9607
+Seagate-Coney Island,18.3,95.4,92,40.5801174,-74.0061411,,
+West Brighton,24.9,95.9,91,40.5777777,-73.97493452,,
+Homecrest,20.6,99.8,79,40.58611335,-73.95729941,,
+Gravesend,29.6,97.1,85,40.5961338,-73.9739426,,
+Bath Beach,22.1,93.9,92,40.6018495,-74.000501,40.6043,-74.0075
+Bensonhurst West,14.3,96.6,70,,,,
+Bensonhurst East,14.6,97.4,53,,,,
+Dyker Heights,20.2,96.1,77,40.6204716,-74.0116668,40.624,-74.0108
+Bay Ridge,31.2,94,84,40.6320062,-74.0232101,40.6267,-74.0299
+Sunset Park West,10.7,97.5,83,,,,
+Carroll Gardens-Columbia Street-Red Hook,19.7,97,91,40.6816299,-74.0022455,,
+Sunset Park East,17.9,96.7,84,42.6199174,-73.7183387,,
+Stuyvesant Heights,26.6,98.4,96,42.387863,-73.775751,,
+Park Slope-Gowanus,22.5,96.5,91,40.6797027,-73.9817608,,
+DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,22.8,98.1,99,,,,
+Windsor Terrace,28,95.6,100,40.65348695,-73.97719596,,
+Kensington-Ocean Parkway,23.1,97.9,87,,,,
+Flatbush,30.3,97.1,65,40.6520481,-73.959027,40.6407,-73.9564
+Midwood,28.8,100,45,40.6188823,-73.9654889,40.6204,-73.9556
+Madison,24.1,99.6,61,42.875882,-75.6802581,40.6049,-73.9481
+Georgetown-Marine Park-Bergen Beach-Mill Basin,34.4,99.4,87,,,,
+Ocean Parkway South,32.9,99.9,94,,,,
+Canarsie,34.7,99.2,78,40.643715,-73.9006921,40.6394,-73.9015
+Flatlands,24.3,100.5,67,40.6212155,-73.9348597,40.6263,-73.9301
+Prospect Lefferts Gardens-Wingate,21,97.8,80,,,40.6598,-73.948
+Crown Heights North,25.2,97.8,91,40.66892195,-73.93293553,,
+Crown Heights South,19.4,97,96,,,,
+Prospect Heights,24.2,96.6,97,40.6778708,-73.9684725,40.6776,-73.9676
+Fort Greene,33.4,97.6,100,40.6907711,-73.9766245,40.6912,-73.9744
+Clinton Hill,27.5,97.9,93,40.6897222,-73.9652778,40.689,-73.9645
+Williamsburg,23.4,100.9,94,40.714622,-73.95345,40.7149,-73.9586
+North Side-South Side,16.2,99.3,98,42.8354089,-78.8672883,,
+Bedford,23,99.1,96,41.2041304,-73.642509,,
+Greenpoint,12.4,98.7,89,40.7237134,-73.9509714,40.7295,-73.9495
+Bushwick North,14.7,99.5,91,40.7856466,-73.0255008,,
+Bushwick South,18.6,100.7,89,40.6942867,-73.92588361,,
+Ocean Hill,21.1,100.6,99,40.6757317,-73.9124338,40.6766,-73.9136
+Brownsville,24.8,100.7,100,40.665306,-73.9124755,40.664,-73.9095
+East New York,33.8,100.7,84,40.6667702,-73.8823583,,
+Cypress Hills-City Line,22.5,99,67,40.6822222,-73.8769444,,
+East New York (Pennsylvania Ave),18.6,100.9,98,40.6752876,-73.8963758,,
+Borough Park,22.6,99.9,63,40.633993,-73.9968059,40.6329,-73.9895
+East Williamsburg,11.2,100,93,40.72105485,-73.93046893,40.7133,-73.9365
+East Flatbush-Farragut,21.1,100.5,54,,,40.6391,-73.9376
+Starrett City,53.4,95.5,95,40.6478541,-73.87951546,,
+Erasmus,15.6,98.6,47,40.6495482,-73.9559714,,
+Rugby-Remsen Village,17.5,99.6,67,,,,
+Marble Hill-Inwood,20.1,97.1,94,,,,
+Central Harlem North-Polo Grounds,25,98.4,99,,,,
+Hamilton Heights,30.6,95.1,100,40.8241451,-73.9500618,,
+Manhattanville,26.5,96.8,99,40.8157775,-73.951554,,
+Morningside Heights,38.3,96.2,99,40.81,-73.9625,40.8095,-73.9618
+Central Harlem South,19.7,98.3,100,,,,
+Upper West Side,32.1,95.5,99,40.7870455,-73.9754163,,
+Hudson Yards-Chelsea-Flatiron-Union Square,12.8,99.1,91,,,,
+Lincoln Square,20.1,96.4,100,40.7723194,-73.9844012,,
+Clinton,11.9,98.3,96,44.7278943,-73.6686982,,
+Midtown-Midtown South,3.4,97.5,92,40.7507389,-73.9810226,,
+Turtle Bay-East Midtown,14.2,97.2,84,,,,
+Murray Hill-Kips Bay,15.6,97.8,92,40.7435512,-73.9739144,40.7442,-73.9759
+Gramercy,16.2,99.9,100,40.7355189,-73.9840794,40.7368,-73.9841
+East Village,23.1,98.3,100,40.7292688,-73.9873613,40.726,-73.9821
+West Village,19.3,98,99,40.7341857,-74.00558,40.7347,-74.0059
+SoHo-TriBeCa-Civic Center-Little Italy,9.5,98.7,100,,,,
+Battery Park City-Lower Manhattan,14.4,92.6,98,,,,
+Chinatown,17.9,97.8,100,40.7164913,-73.9962504,,
+Lower East Side,31.8,97.4,100,40.7159357,-73.9868057,40.717,-73.9838
+Lenox Hill-Roosevelt Island,24.2,96.2,92,,,,
+Yorkville,21.8,96.6,94,40.7780067,-73.9482022,,
+East Harlem South,26.6,97.8,100,,,,
+East Harlem North,27.8,98.2,100,,,,
+Washington Heights North,35.8,94.6,100,40.8260529,-73.69550719,,
+Washington Heights South,22.5,95.6,100,40.883325,-72.515328,,
+Upper East Side-Carnegie Hill,17.5,97.5,100,40.782978,-73.9517589,40.7747,-73.9612
+Stuyvesant Town-Cooper Village,42,94.1,100,,,,
+South Jamaica,31.2,102.8,84,40.69567495,-73.79420266,40.6943,-73.7917
+Springfield Gardens North,41,101.5,76,,,,
+Springfield Gardens South-Brookville,34.7,101.2,85,,,,
+Rosedale,50.9,99.2,58,40.6620479,-73.7354097,40.659,-73.7357
+Jamaica Estates-Holliswood,51.9,98.4,47,,,40.7207,-73.7776
+Hollis,34.1,102.4,50,40.7134361,-73.7670772,40.7119,-73.7621
+St. Albans,38.3,102.3,54,40.6912611,-73.7655652,40.6932,-73.7622
+Breezy Point-Belle Harbor-Rockaway Park-Broad Channel,30.8,94.3,98,,,40.5782,-73.8606
+Hammels-Arverne-Edgemere,35.8,93.7,95,,,,
+Far Rockaway-Bayswater,36.8,95.9,70,40.6017511,-73.76346654,40.6017,-73.7566
+Forest Hills,35.2,98.6,74,40.7231009,-73.84661252,40.7215,-73.8477
+Rego Park,28.3,100.1,72,40.72286495,-73.86210253,40.7262,-73.8634
+Glendale,23.4,97.6,64,40.7014917,-73.8868028,40.7035,-73.8757
+Ridgewood,27.8,96.4,62,40.7080556,-73.9141667,40.7057,-73.9037
+Middle Village,44.4,98.5,84,40.71822275,-73.87867895,40.7192,-73.8781
+Flushing,22.2,99.8,90,40.7654301,-73.8174291,,
+College Point,28.4,99.7,85,40.7876014,-73.8459682,40.7826,-73.8399
+Corona,16.4,100.7,86,40.7469593,-73.8601456,40.7432,-73.8593
+North Corona,16.6,100.3,78,40.665971,-73.699311,40.7541,-73.8629
+East Elmhurst,27,101.2,92,40.7612123,-73.8651358,40.7641,-73.8722
+Jackson Heights,24.8,99,64,40.7556561,-73.8857755,40.7555,-73.8863
+Elmhurst,19.8,100.9,67,40.7365804,-73.8783932,40.7394,-73.8791
+Maspeth,18.6,99.7,81,40.723158,-73.912637,40.7231,-73.9051
+Hunters Point-Sunnyside-West Maspeth,14.5,99.1,73,,,,
+Cambria Heights,39.2,102.4,34,40.6945474,-73.7384653,40.6943,-73.7356
+Queens Village,32.3,102.7,23,40.7267692,-73.7415208,40.7161,-73.7418
+Briarwood-Jamaica Hills,31,101.1,78,,,,
+Kew Gardens Hills,39.7,100.3,53,40.714441,-73.831008,40.7266,-73.8198
+Pomonok-Flushing Heights-Hillcrest,37.3,101.1,60,,,,
+Fresh Meadows-Utopia,47.6,99.9,69,40.7328951,-73.7942699,40.7349,-73.7862
+Oakland Gardens,50.9,98,90,40.753991,-73.765966,,
+Bellerose,47.3,100.6,46,40.7242205,-73.7164845,40.7355,-73.7267
+Glen Oaks-Floral Park-New Hyde Park,48.2,100,34,,,40.746,-73.711
+Douglas Manor-Douglaston-Little Neck,55.6,97,75,,,,
+Bayside-Bayside Hills,42.7,100.2,59,40.7500332,-73.76506287,,
+Ft. Totten-Bay Terrace-Clearview,50.1,98,68,,,,
+Auburndale,38.3,101.4,68,40.7614516,-73.7897239,40.7553,-73.786
+Whitestone,38,99.9,73,40.7945457,-73.8184674,,
+Elmhurst-Maspeth,21.2,99.9,78,,,,
+Murray Hill,38.5,100.1,71,40.76,-73.8130556,,
+East Flushing,38.6,101.4,66,40.7575366,-73.78430453,40.7538,-73.8081
+Woodhaven,22.5,100.4,75,40.6892698,-73.8579131,40.6915,-73.8574
+Richmond Hill,19.4,102.3,68,40.6994253,-73.8309672,40.6975,-73.8328
+South Ozone Park,24.5,102.4,40,40.6701035,-73.8190231,40.6762,-73.8195
+Ozone Park,27.8,101.3,76,40.67677,-73.8437461,40.6756,-73.847
+Lindenwood-Howard Beach,43.2,96.9,89,,,,
+Kew Gardens,45.8,98.1,77,40.7139415,-73.830742,40.708,-73.8288
+Jamaica,15,102.6,90,40.7029134,-73.8006429,40.704,-73.7956
+Queensboro Hill,40.2,100,89,41.2717781,-74.0273587,40.7431,-73.8197
+Woodside,20.3,100.2,64,40.7453798,-73.9054145,40.7431,-73.9014
+Laurelton,36,102.1,23,40.6667703,-73.7515212,40.6759,-73.7445
+Queensbridge-Ravenswood-Long Island City,18.9,100,90,,,,
+Astoria,18,97.6,46,40.7720145,-73.9302673,,
+Old Astoria,20.7,97.6,95,,,,
+Steinway,22.4,97.8,64,40.7745459,-73.9037477,,
+Baisley Park,35.5,101.7,93,40.67592055,-73.78496488,40.6795,-73.7899
+Annadale-Huguenot-Prince's Bay-Eltingville,64.1,95.9,68,,,,
+New Springville-Bloomfield-Travis,62.4,96.7,58,,,,
+Westerleigh,50.7,99.2,58,40.621215,-74.1318094,,
+Grymes Hill-Clifton-Fox Hills,45.7,95.5,62,,,,
+Charleston-Richmond Valley-Tottenville,60.1,94,65,,,,
+Mariner's Harbor-Arlington-Port Ivory-Graniteville,44.1,100.2,38,,,,
+Grasmere-Arrochar-Ft. Wadsworth,51.8,95.4,67,,,,
+West New Brighton-New Brighton-St. George,44.2,96.7,93,,,,
+Todt Hill-Emerson Hill-Heartland Village-Lighthouse Hill,70.2,97.6,62,,,,
+Oakwood-Oakwood Beach,51.9,96,61,40.5503325,-74.11124582,,
+Port Richmond,36.4,101.6,56,40.6331592,-74.1365318,40.6338,-74.1332
+Rossville-Woodrow,56.6,96.9,54,40.5417769,-74.2081856,,
+New Brighton-Silver Lake,47,96.6,83,,,,
+Old Town-Dongan Hills-South Beach,44.3,97.1,66,,,,
+Stapleton-Rosebank,53.6,96.4,62,,,,
+New Dorp-Midland Beach,43.1,99.1,66,40.566647,-74.102089,40.5743,-74.1016
+Arden Heights,54,97.7,52,40.56369985,-74.19160317,,
+Great Kills,48.6,98.5,60,40.5542718,-74.1515318,,

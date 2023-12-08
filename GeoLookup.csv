@@ -1,4 +1,4 @@
-GeoType,GeoTypeDesc,GeoTypeShortDesc,GeoID,Neighborhood Name,BoroID,Borough,Lat,Long,Zip-Codes,,
+GeoType,GeoTypeDesc,GeoTypeShortDesc,GeoID,geography,BoroID,Borough,lat,lng,Zip-Codes,,
 NTA2020,Neighborhood Tabulation Area,Neighborhood (NTA),50101,Mott Haven-Port Morris,1,Bronx,40.8075,-73.9172,"10454, 10455",,
 NTA2020,Neighborhood Tabulation Area,Neighborhood (NTA),50102,Melrose,1,Bronx,40.8183,-73.9129,"10456, 10451",,10457
 NTA2020,Neighborhood Tabulation Area,Neighborhood (NTA),50201,Hunts Point,1,Bronx,40.8109,-73.885,10474,,
