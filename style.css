@@ -1,13 +1,12 @@
-#map { 
-    height: 700px; 
+#map {
+    height: 700px;
 }
 
-body{
-    
+body {
+    font-family: 'Satoshi', sans-serif;
 }
-h1{
 
-}
+h1 {}
 
 #search-container {
     text-align: center;
@@ -19,6 +18,7 @@ h1{
     text-align: center;
 }
 
-li{
-    list-style: none;;
+li {
+    list-style: none;
+    ;
 }
