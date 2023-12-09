@@ -23,7 +23,7 @@ function displayResults(data) {
     if (data.length > 0) {
         let htmlContent = '<ul>';
         data.forEach(row => {
-            htmlContent += `<li>${row.geography}</li>`; // Replace 'neighborhood' with the actual property name
+            htmlContent += `<li>${row.geography}</li>`; // Replace 'geogrpahy' with the actual property name
         });
         htmlContent += '</ul>';
         resultContainer.innerHTML = htmlContent;
