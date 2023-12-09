@@ -1,0 +1,1748 @@
+[
+  {
+    "geography": "Greenpoint",
+    "Coverage Percentage": "12.4",
+    "Degrees Fahrenheit": "99.6",
+    "Walkability Percent": "89",
+    "lat": "40.7202",
+    "lng": "-73.9497",
+    "zip": "11222"
+  },
+  {
+    "geography": "East New York",
+    "Coverage Percentage": "33.8",
+    "Degrees Fahrenheit": "99.9",
+    "Walkability Percent": "84",
+    "lat": "40.6721",
+    "lng": "-73.883",
+    "zip": "11208"
+  },
+  {
+    "geography": "Borough Park",
+    "Coverage Percentage": "22.6",
+    "Degrees Fahrenheit": "98.6",
+    "Walkability Percent": "63",
+    "lat": "40.6284",
+    "lng": "-73.9804",
+    "zip": "11204"
+  },
+  {
+    "geography": "Upper West Side",
+    "Coverage Percentage": "32.1",
+    "Degrees Fahrenheit": "95.5",
+    "Walkability Percent": "99",
+    "lat": "40.7884",
+    "lng": "-73.9756",
+    "zip": "10024"
+  },
+  {
+    "geography": "Jamaica",
+    "Coverage Percentage": "15",
+    "Degrees Fahrenheit": "101.4",
+    "Walkability Percent": "90",
+    "lat": "40.696",
+    "lng": "-73.7831",
+    "zip": "11433"
+  },
+  {
+    "geography": "Port Richmond",
+    "Coverage Percentage": "36.4",
+    "Degrees Fahrenheit": "99.1",
+    "Walkability Percent": "56",
+    "lat": "40.6324",
+    "lng": "-74.1469",
+    "zip": "10303"
+  },
+  {
+    "geography": "Claremont-Bathgate",
+    "Coverage Percentage": "21.7",
+    "Degrees Fahrenheit": "100",
+    "Walkability Percent": "100",
+    "lat": "40.8427",
+    "lng": "-73.9003",
+    "zip": "10457"
+  },
+  {
+    "geography": "Eastchester-Edenwald-Baychester",
+    "Coverage Percentage": "38.1",
+    "Degrees Fahrenheit": "99.8",
+    "Walkability Percent": "77",
+    "lat": "40.8809",
+    "lng": "-73.8366",
+    "zip": "10475"
+  },
+  {
+    "geography": "Bedford Park-Fordham North",
+    "Coverage Percentage": "17.3",
+    "Degrees Fahrenheit": "97.4",
+    "Walkability Percent": "97",
+    "lat": "40.8677",
+    "lng": "-73.8902",
+    "zip": "10458"
+  },
+  {
+    "geography": "Belmont",
+    "Coverage Percentage": "24.4",
+    "Degrees Fahrenheit": "98.7",
+    "Walkability Percent": "95",
+    "lat": "40.8578",
+    "lng": "-73.8859",
+    "zip": "10458"
+  },
+  {
+    "geography": "Bronxdale",
+    "Coverage Percentage": "26.9",
+    "Degrees Fahrenheit": "98.4",
+    "Walkability Percent": "99",
+    "lat": "40.864",
+    "lng": "-73.8649",
+    "zip": "10467"
+  },
+  {
+    "geography": "West Farms-Bronx River",
+    "Coverage Percentage": "21.8",
+    "Degrees Fahrenheit": "98.5",
+    "Walkability Percent": "99",
+    "lat": "40.8342",
+    "lng": "-73.8723",
+    "zip": "10472"
+  },
+  {
+    "geography": "Soundview-Castle Hill-Clason Point-Harding Park",
+    "Coverage Percentage": "33.7",
+    "Degrees Fahrenheit": "98.7",
+    "Walkability Percent": "94",
+    "lat": "40.8181",
+    "lng": "-73.8562",
+    "zip": "10473"
+  },
+  {
+    "geography": "Pelham Bay-Country Club-City Island",
+    "Coverage Percentage": "36.9",
+    "Degrees Fahrenheit": "97.1",
+    "Walkability Percent": "69",
+    "lat": "40.8466",
+    "lng": "-73.8065",
+    "zip": "10469"
+  },
+  {
+    "geography": "Co-op City",
+    "Coverage Percentage": "33.9",
+    "Degrees Fahrenheit": "97.2",
+    "Walkability Percent": "29",
+    "lat": "40.874",
+    "lng": "-73.8283",
+    "zip": "10475"
+  },
+  {
+    "geography": "East Concourse-Concourse Village",
+    "Coverage Percentage": "15",
+    "Degrees Fahrenheit": "99.2",
+    "Walkability Percent": "100",
+    "lat": "40.8305",
+    "lng": "-73.9158",
+    "zip": "10456"
+  },
+  {
+    "geography": "East Tremont",
+    "Coverage Percentage": "20.2",
+    "Degrees Fahrenheit": "99.6",
+    "Walkability Percent": "99",
+    "lat": "40.845",
+    "lng": "-73.8855",
+    "zip": "10460"
+  },
+  {
+    "geography": "North Riverdale-Fieldston-Riverdale",
+    "Coverage Percentage": "63.4",
+    "Degrees Fahrenheit": "93.8",
+    "Walkability Percent": "77",
+    "lat": "40.8995",
+    "lng": "-73.907",
+    "zip": "10471"
+  },
+  {
+    "geography": "Highbridge",
+    "Coverage Percentage": "24",
+    "Degrees Fahrenheit": "98.3",
+    "Walkability Percent": "95",
+    "lat": "40.8378",
+    "lng": "-73.9262",
+    "zip": "10452"
+  },
+  {
+    "geography": "Hunts Point",
+    "Coverage Percentage": "11.2",
+    "Degrees Fahrenheit": "100.4",
+    "Walkability Percent": "84",
+    "lat": "40.8121",
+    "lng": "-73.8855",
+    "zip": "10474"
+  },
+  {
+    "geography": "Van Cortlandt Village",
+    "Coverage Percentage": "26.8",
+    "Degrees Fahrenheit": "95.6",
+    "Walkability Percent": "97",
+    "lat": "40.8765",
+    "lng": "-73.8956",
+    "zip": "10468"
+  },
+  {
+    "geography": "Spuyten Duyvil-Kingsbridge",
+    "Coverage Percentage": "39.2",
+    "Degrees Fahrenheit": "96",
+    "Walkability Percent": "98",
+    "lat": "40.8824",
+    "lng": "-73.9107",
+    "zip": "10463"
+  },
+  {
+    "geography": "Kingsbridge Heights",
+    "Coverage Percentage": "25.7",
+    "Degrees Fahrenheit": "97.3",
+    "Walkability Percent": "94",
+    "lat": "40.8653",
+    "lng": "-73.9059",
+    "zip": "10468"
+  },
+  {
+    "geography": "Allerton-Pelham Gardens",
+    "Coverage Percentage": "31.6",
+    "Degrees Fahrenheit": "100.3",
+    "Walkability Percent": "79",
+    "lat": "40.8645",
+    "lng": "-73.8474",
+    "zip": "10469"
+  },
+  {
+    "geography": "Longwood",
+    "Coverage Percentage": "18.4",
+    "Degrees Fahrenheit": "100.5",
+    "Walkability Percent": "100",
+    "lat": "40.8197",
+    "lng": "-73.899",
+    "zip": "10459"
+  },
+  {
+    "geography": "Melrose South-Mott Haven North",
+    "Coverage Percentage": "23.2",
+    "Degrees Fahrenheit": "101.1",
+    "Walkability Percent": "99",
+    "lat": "40.8183",
+    "lng": "-73.9129",
+    "zip": "10455"
+  },
+  {
+    "geography": "Morrisania-Melrose",
+    "Coverage Percentage": "24.3",
+    "Degrees Fahrenheit": "99.6",
+    "Walkability Percent": "100",
+    "lat": "40.8275",
+    "lng": "-73.9024",
+    "zip": "10456"
+  },
+  {
+    "geography": "University Heights-Morris Heights",
+    "Coverage Percentage": "26.4",
+    "Degrees Fahrenheit": "97.8",
+    "Walkability Percent": "99",
+    "lat": "40.8525",
+    "lng": "-73.916",
+    "zip": "10453"
+  },
+  {
+    "geography": "Van Nest-Morris Park-Westchester Square",
+    "Coverage Percentage": "23.9",
+    "Degrees Fahrenheit": "100.6",
+    "Walkability Percent": "71",
+    "lat": "40.8468",
+    "lng": "-73.8507",
+    "zip": "10461"
+  },
+  {
+    "geography": "Mott Haven-Port Morris",
+    "Coverage Percentage": "20.2",
+    "Degrees Fahrenheit": "99.8",
+    "Walkability Percent": "94",
+    "lat": "40.8073",
+    "lng": "-73.9168",
+    "zip": "10454"
+  },
+  {
+    "geography": "Fordham South",
+    "Coverage Percentage": "11.4",
+    "Degrees Fahrenheit": "97.9",
+    "Walkability Percent": "100",
+    "lat": "40.8582",
+    "lng": "-73.8995",
+    "zip": "10468"
+  },
+  {
+    "geography": "Mount Hope",
+    "Coverage Percentage": "14.1",
+    "Degrees Fahrenheit": "98.4",
+    "Walkability Percent": "100",
+    "lat": "40.8491",
+    "lng": "-73.9051",
+    "zip": "10457"
+  },
+  {
+    "geography": "Norwood",
+    "Coverage Percentage": "29.5",
+    "Degrees Fahrenheit": "95.8",
+    "Walkability Percent": "100",
+    "lat": "40.8771",
+    "lng": "-73.879",
+    "zip": "10467"
+  },
+  {
+    "geography": "Williamsbridge-Olinville",
+    "Coverage Percentage": "24",
+    "Degrees Fahrenheit": "98.9",
+    "Walkability Percent": "62",
+    "lat": "40.8822",
+    "lng": "-73.8589",
+    "zip": "10467"
+  },
+  {
+    "geography": "Parkchester",
+    "Coverage Percentage": "34.5",
+    "Degrees Fahrenheit": "99.1",
+    "Walkability Percent": "63",
+    "lat": "40.8377",
+    "lng": "-73.858",
+    "zip": "10462"
+  },
+  {
+    "geography": "Pelham Parkway",
+    "Coverage Percentage": "35.2",
+    "Degrees Fahrenheit": "99",
+    "Walkability Percent": "84",
+    "lat": "40.8562",
+    "lng": "-73.8525",
+    "zip": "10461"
+  },
+  {
+    "geography": "Schuylerville-Throgs Neck-Edgewater Park",
+    "Coverage Percentage": "45",
+    "Degrees Fahrenheit": "98.3",
+    "Walkability Percent": "55",
+    "lat": "40.8233",
+    "lng": "-73.8236",
+    "zip": "10465"
+  },
+  {
+    "geography": "Soundview-Bruckner",
+    "Coverage Percentage": "24.5",
+    "Degrees Fahrenheit": "98",
+    "Walkability Percent": "93",
+    "lat": "40.8279",
+    "lng": "-73.8697",
+    "zip": "10472"
+  },
+  {
+    "geography": "Westchester-Unionport",
+    "Coverage Percentage": "18.3",
+    "Degrees Fahrenheit": "100.1",
+    "Walkability Percent": "83",
+    "lat": "40.8321",
+    "lng": "-73.8486",
+    "zip": "10462"
+  },
+  {
+    "geography": "Woodlawn-Wakefield",
+    "Coverage Percentage": "29.5",
+    "Degrees Fahrenheit": "99.2",
+    "Walkability Percent": "49",
+    "lat": "40.8979",
+    "lng": "-73.8522",
+    "zip": "10466"
+  },
+  {
+    "geography": "West Concourse",
+    "Coverage Percentage": "19.2",
+    "Degrees Fahrenheit": "97.9",
+    "Walkability Percent": "100",
+    "lat": "40.829",
+    "lng": "-73.9244",
+    "zip": "10452"
+  },
+  {
+    "geography": "Crotona Park East",
+    "Coverage Percentage": "23",
+    "Degrees Fahrenheit": "100",
+    "Walkability Percent": "99",
+    "lat": "40.834",
+    "lng": "-73.8859",
+    "zip": "10460"
+  },
+  {
+    "geography": "Brooklyn Heights-Cobble Hill",
+    "Coverage Percentage": "27",
+    "Degrees Fahrenheit": "95.7",
+    "Walkability Percent": "100",
+    "lat": "40.6955",
+    "lng": "-73.9949",
+    "zip": "11201"
+  },
+  {
+    "geography": "Sheepshead Bay-Gerritsen Beach-Manhattan Beach",
+    "Coverage Percentage": "25.2",
+    "Degrees Fahrenheit": "96.2",
+    "Walkability Percent": "78",
+    "lat": "40.5883",
+    "lng": "-73.9415",
+    "zip": "11235"
+  },
+  {
+    "geography": "Brighton Beach",
+    "Coverage Percentage": "16.8",
+    "Degrees Fahrenheit": "95.5",
+    "Walkability Percent": "98",
+    "lat": "40.5809",
+    "lng": "-73.9612",
+    "zip": "11235"
+  },
+  {
+    "geography": "Seagate-Coney Island",
+    "Coverage Percentage": "18.3",
+    "Degrees Fahrenheit": "95.4",
+    "Walkability Percent": "92",
+    "lat": "40.5765",
+    "lng": "-73.9912",
+    "zip": "11224"
+  },
+  {
+    "geography": "West Brighton",
+    "Coverage Percentage": "24.9",
+    "Degrees Fahrenheit": "95.9",
+    "Walkability Percent": "91",
+    "lat": "40.5791",
+    "lng": "-73.9734",
+    "zip": "11224"
+  },
+  {
+    "geography": "Homecrest",
+    "Coverage Percentage": "20.6",
+    "Degrees Fahrenheit": "99.8",
+    "Walkability Percent": "79",
+    "lat": "40.6",
+    "lng": "-73.9643",
+    "zip": "11223"
+  },
+  {
+    "geography": "Gravesend",
+    "Coverage Percentage": "29.6",
+    "Degrees Fahrenheit": "97.1",
+    "Walkability Percent": "85",
+    "lat": "40.5884",
+    "lng": "-73.9814",
+    "zip": "11223"
+  },
+  {
+    "geography": "Bath Beach",
+    "Coverage Percentage": "22.1",
+    "Degrees Fahrenheit": "93.9",
+    "Walkability Percent": "92",
+    "lat": "40.6043",
+    "lng": "-74.0075",
+    "zip": "11214"
+  },
+  {
+    "geography": "Bensonhurst West",
+    "Coverage Percentage": "14.3",
+    "Degrees Fahrenheit": "96.6",
+    "Walkability Percent": "70",
+    "lat": "40.6122",
+    "lng": "-73.9953",
+    "zip": "11214"
+  },
+  {
+    "geography": "Bensonhurst East",
+    "Coverage Percentage": "14.6",
+    "Degrees Fahrenheit": "97.4",
+    "Walkability Percent": "53",
+    "lat": "40.6014",
+    "lng": "-73.9835",
+    "zip": "11223"
+  },
+  {
+    "geography": "Dyker Heights",
+    "Coverage Percentage": "20.2",
+    "Degrees Fahrenheit": "96.1",
+    "Walkability Percent": "77",
+    "lat": "40.6224",
+    "lng": "-74.0121",
+    "zip": "11228"
+  },
+  {
+    "geography": "Bay Ridge",
+    "Coverage Percentage": "31.2",
+    "Degrees Fahrenheit": "94",
+    "Walkability Percent": "84",
+    "lat": "40.6229",
+    "lng": "-74.0239",
+    "zip": "11209"
+  },
+  {
+    "geography": "Sunset Park West",
+    "Coverage Percentage": "10.7",
+    "Degrees Fahrenheit": "97.5",
+    "Walkability Percent": "83",
+    "lat": "40.6524",
+    "lng": "-74.0112",
+    "zip": "11232"
+  },
+  {
+    "geography": "Carroll Gardens-Columbia Street-Red Hook",
+    "Coverage Percentage": "19.7",
+    "Degrees Fahrenheit": "97",
+    "Walkability Percent": "91",
+    "lat": "40.6788",
+    "lng": "-74.0039",
+    "zip": "11231"
+  },
+  {
+    "geography": "Sunset Park East",
+    "Coverage Percentage": "17.9",
+    "Degrees Fahrenheit": "96.7",
+    "Walkability Percent": "84",
+    "lat": "40.6419",
+    "lng": "-74.0046",
+    "zip": "11220"
+  },
+  {
+    "geography": "Stuyvesant Heights",
+    "Coverage Percentage": "26.6",
+    "Degrees Fahrenheit": "98.4",
+    "Walkability Percent": "96",
+    "lat": "40.6882",
+    "lng": "-73.9319",
+    "zip": "11221"
+  },
+  {
+    "geography": "Park Slope-Gowanus",
+    "Coverage Percentage": "22.5",
+    "Degrees Fahrenheit": "96.5",
+    "Walkability Percent": "91",
+    "lat": "40.6712",
+    "lng": "-73.9839",
+    "zip": "11215"
+  },
+  {
+    "geography": "DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill",
+    "Coverage Percentage": "22.8",
+    "Degrees Fahrenheit": "98.1",
+    "Walkability Percent": "99",
+    "lat": "40.6929",
+    "lng": "-73.986",
+    "zip": "11201"
+  },
+  {
+    "geography": "Windsor Terrace",
+    "Coverage Percentage": "28",
+    "Degrees Fahrenheit": "95.6",
+    "Walkability Percent": "100",
+    "lat": "40.6536",
+    "lng": "-73.978",
+    "zip": "11218"
+  },
+  {
+    "geography": "Kensington-Ocean Parkway",
+    "Coverage Percentage": "23.1",
+    "Degrees Fahrenheit": "97.9",
+    "Walkability Percent": "87",
+    "lat": "40.6406",
+    "lng": "-73.9762",
+    "zip": "11218"
+  },
+  {
+    "geography": "Flatbush",
+    "Coverage Percentage": "30.3",
+    "Degrees Fahrenheit": "97.1",
+    "Walkability Percent": "65",
+    "lat": "40.6304",
+    "lng": "-73.9591",
+    "zip": "11230"
+  },
+  {
+    "geography": "Midwood",
+    "Coverage Percentage": "28.8",
+    "Degrees Fahrenheit": "100",
+    "Walkability Percent": "45",
+    "lat": "40.6209",
+    "lng": "-73.9568",
+    "zip": "11230"
+  },
+  {
+    "geography": "Madison",
+    "Coverage Percentage": "24.1",
+    "Degrees Fahrenheit": "99.6",
+    "Walkability Percent": "61",
+    "lat": "40.6049",
+    "lng": "-73.9481",
+    "zip": "11229"
+  },
+  {
+    "geography": "Georgetown-Marine Park-Bergen Beach-Mill Basin",
+    "Coverage Percentage": "34.4",
+    "Degrees Fahrenheit": "99.4",
+    "Walkability Percent": "87",
+    "lat": "40.6146",
+    "lng": "-73.9152",
+    "zip": "11234"
+  },
+  {
+    "geography": "Ocean Parkway South",
+    "Coverage Percentage": "32.9",
+    "Degrees Fahrenheit": "99.9",
+    "Walkability Percent": "94",
+    "lat": "40.6173",
+    "lng": "-73.9703",
+    "zip": "11230"
+  },
+  {
+    "geography": "Canarsie",
+    "Coverage Percentage": "34.7",
+    "Degrees Fahrenheit": "99.2",
+    "Walkability Percent": "78",
+    "lat": "40.638",
+    "lng": "-73.8998",
+    "zip": "11236"
+  },
+  {
+    "geography": "Flatlands",
+    "Coverage Percentage": "24.3",
+    "Degrees Fahrenheit": "100.5",
+    "Walkability Percent": "67",
+    "lat": "40.6263",
+    "lng": "-73.9301",
+    "zip": "11234"
+  },
+  {
+    "geography": "Prospect Lefferts Gardens-Wingate",
+    "Coverage Percentage": "21",
+    "Degrees Fahrenheit": "97.8",
+    "Walkability Percent": "80",
+    "lat": "40.6587",
+    "lng": "-73.9474",
+    "zip": "11203"
+  },
+  {
+    "geography": "Crown Heights North",
+    "Coverage Percentage": "25.2",
+    "Degrees Fahrenheit": "97.8",
+    "Walkability Percent": "91",
+    "lat": "40.6745",
+    "lng": "-73.9393",
+    "zip": "11213"
+  },
+  {
+    "geography": "Crown Heights South",
+    "Coverage Percentage": "19.4",
+    "Degrees Fahrenheit": "97",
+    "Walkability Percent": "96",
+    "lat": "40.6665",
+    "lng": "-73.9488",
+    "zip": "11225"
+  },
+  {
+    "geography": "Prospect Heights",
+    "Coverage Percentage": "24.2",
+    "Degrees Fahrenheit": "96.6",
+    "Walkability Percent": "97",
+    "lat": "40.6776",
+    "lng": "-73.9676",
+    "zip": "11238"
+  },
+  {
+    "geography": "Fort Greene",
+    "Coverage Percentage": "33.4",
+    "Degrees Fahrenheit": "97.6",
+    "Walkability Percent": "100",
+    "lat": "40.6908",
+    "lng": "-73.9749",
+    "zip": "11217"
+  },
+  {
+    "geography": "Clinton Hill",
+    "Coverage Percentage": "27.5",
+    "Degrees Fahrenheit": "97.9",
+    "Walkability Percent": "93",
+    "lat": "40.688",
+    "lng": "-73.9624",
+    "zip": "11238"
+  },
+  {
+    "geography": "Williamsburg",
+    "Coverage Percentage": "23.4",
+    "Degrees Fahrenheit": "100.9",
+    "Walkability Percent": "94",
+    "lat": "40.7039",
+    "lng": "-73.9586",
+    "zip": "11211"
+  },
+  {
+    "geography": "North Side-South Side",
+    "Coverage Percentage": "16.2",
+    "Degrees Fahrenheit": "99.3",
+    "Walkability Percent": "98",
+    "lat": "40.7149",
+    "lng": "-73.9586",
+    "zip": "11211"
+  },
+  {
+    "geography": "Bedford",
+    "Coverage Percentage": "23",
+    "Degrees Fahrenheit": "99.1",
+    "Walkability Percent": "96",
+    "lat": "40.6915",
+    "lng": "-73.9499",
+    "zip": "11216"
+  },
+  {
+    "geography": "Greenpoint",
+    "Coverage Percentage": "12.4",
+    "Degrees Fahrenheit": "98.7",
+    "Walkability Percent": "89",
+    "lat": "40.7202",
+    "lng": "-73.9497",
+    "zip": "11222"
+  },
+  {
+    "geography": "Bushwick North",
+    "Coverage Percentage": "14.7",
+    "Degrees Fahrenheit": "99.5",
+    "Walkability Percent": "91",
+    "lat": "40.7006",
+    "lng": "-73.9178",
+    "zip": "11237"
+  },
+  {
+    "geography": "Bushwick South",
+    "Coverage Percentage": "18.6",
+    "Degrees Fahrenheit": "100.7",
+    "Walkability Percent": "89",
+    "lat": "40.6965",
+    "lng": "-73.9251",
+    "zip": "11221"
+  },
+  {
+    "geography": "Ocean Hill",
+    "Coverage Percentage": "21.1",
+    "Degrees Fahrenheit": "100.6",
+    "Walkability Percent": "99",
+    "lat": "40.6766",
+    "lng": "-73.9136",
+    "zip": "11233"
+  },
+  {
+    "geography": "Brownsville",
+    "Coverage Percentage": "24.8",
+    "Degrees Fahrenheit": "100.7",
+    "Walkability Percent": "100",
+    "lat": "40.664",
+    "lng": "-73.9103",
+    "zip": "11212"
+  },
+  {
+    "geography": "East New York",
+    "Coverage Percentage": "33.8",
+    "Degrees Fahrenheit": "100.7",
+    "Walkability Percent": "84",
+    "lat": "40.6721",
+    "lng": "-73.883",
+    "zip": "11208"
+  },
+  {
+    "geography": "Cypress Hills-City Line",
+    "Coverage Percentage": "22.5",
+    "Degrees Fahrenheit": "99",
+    "Walkability Percent": "67",
+    "lat": "40.6822",
+    "lng": "-73.8783",
+    "zip": "11208"
+  },
+  {
+    "geography": "East New York (Pennsylvania Ave)",
+    "Coverage Percentage": "18.6",
+    "Degrees Fahrenheit": "100.9",
+    "Walkability Percent": "98",
+    "lat": "40.6666",
+    "lng": "-73.8954",
+    "zip": "11207"
+  },
+  {
+    "geography": "Borough Park",
+    "Coverage Percentage": "22.6",
+    "Degrees Fahrenheit": "99.9",
+    "Walkability Percent": "63",
+    "lat": "40.6284",
+    "lng": "-73.9804",
+    "zip": "11204"
+  },
+  {
+    "geography": "East Williamsburg",
+    "Coverage Percentage": "11.2",
+    "Degrees Fahrenheit": "100",
+    "Walkability Percent": "93",
+    "lat": "40.7154",
+    "lng": "-73.9368",
+    "zip": "11211"
+  },
+  {
+    "geography": "East Flatbush-Farragut",
+    "Coverage Percentage": "21.1",
+    "Degrees Fahrenheit": "100.5",
+    "Walkability Percent": "54",
+    "lat": "40.6439",
+    "lng": "-73.9379",
+    "zip": "11203"
+  },
+  {
+    "geography": "Starrett City",
+    "Coverage Percentage": "53.4",
+    "Degrees Fahrenheit": "95.5",
+    "Walkability Percent": "95",
+    "lat": "40.6475",
+    "lng": "-73.8824",
+    "zip": "11239"
+  },
+  {
+    "geography": "Erasmus",
+    "Coverage Percentage": "15.6",
+    "Degrees Fahrenheit": "98.6",
+    "Walkability Percent": "47",
+    "lat": "40.6461",
+    "lng": "-73.9516",
+    "zip": "11226"
+  },
+  {
+    "geography": "Rugby-Remsen Village",
+    "Coverage Percentage": "17.5",
+    "Degrees Fahrenheit": "99.6",
+    "Walkability Percent": "67",
+    "lat": "40.6524",
+    "lng": "-73.9223",
+    "zip": "11203"
+  },
+  {
+    "geography": "Marble Hill-Inwood",
+    "Coverage Percentage": "20.1",
+    "Degrees Fahrenheit": "97.1",
+    "Walkability Percent": "94",
+    "lat": "40.8679",
+    "lng": "-73.9177",
+    "zip": "10034"
+  },
+  {
+    "geography": "Central Harlem North-Polo Grounds",
+    "Coverage Percentage": "25",
+    "Degrees Fahrenheit": "98.4",
+    "Walkability Percent": "99",
+    "lat": "40.8183",
+    "lng": "-73.9408",
+    "zip": "10030"
+  },
+  {
+    "geography": "Hamilton Heights",
+    "Coverage Percentage": "30.6",
+    "Degrees Fahrenheit": "95.1",
+    "Walkability Percent": "100",
+    "lat": "40.827",
+    "lng": "-73.9485",
+    "zip": "10031"
+  },
+  {
+    "geography": "Manhattanville",
+    "Coverage Percentage": "26.5",
+    "Degrees Fahrenheit": "96.8",
+    "Walkability Percent": "99",
+    "lat": "40.818",
+    "lng": "-73.9538",
+    "zip": "10027"
+  },
+  {
+    "geography": "Morningside Heights",
+    "Coverage Percentage": "38.3",
+    "Degrees Fahrenheit": "96.2",
+    "Walkability Percent": "99",
+    "lat": "40.8079",
+    "lng": "-73.9625",
+    "zip": "10027"
+  },
+  {
+    "geography": "Central Harlem South",
+    "Coverage Percentage": "19.7",
+    "Degrees Fahrenheit": "98.3",
+    "Walkability Percent": "100",
+    "lat": "40.8043",
+    "lng": "-73.9513",
+    "zip": "10026"
+  },
+  {
+    "geography": "Upper West Side",
+    "Coverage Percentage": "32.1",
+    "Degrees Fahrenheit": "95.5",
+    "Walkability Percent": "99",
+    "lat": "40.7884",
+    "lng": "-73.9756",
+    "zip": "10024"
+  },
+  {
+    "geography": "Hudson Yards-Chelsea-Flatiron-Union Square",
+    "Coverage Percentage": "12.8",
+    "Degrees Fahrenheit": "99.1",
+    "Walkability Percent": "91",
+    "lat": "40.7476",
+    "lng": "-73.999",
+    "zip": "10001"
+  },
+  {
+    "geography": "Lincoln Square",
+    "Coverage Percentage": "20.1",
+    "Degrees Fahrenheit": "96.4",
+    "Walkability Percent": "100",
+    "lat": "40.7748",
+    "lng": "-73.9847",
+    "zip": "10023"
+  },
+  {
+    "geography": "Clinton",
+    "Coverage Percentage": "11.9",
+    "Degrees Fahrenheit": "98.3",
+    "Walkability Percent": "96",
+    "lat": "40.7642",
+    "lng": "-73.9924",
+    "zip": "10019"
+  },
+  {
+    "geography": "Midtown-Midtown South",
+    "Coverage Percentage": "3.4",
+    "Degrees Fahrenheit": "97.5",
+    "Walkability Percent": "92",
+    "lat": "40.7557",
+    "lng": "-73.9835",
+    "zip": "10036"
+  },
+  {
+    "geography": "Turtle Bay-East Midtown",
+    "Coverage Percentage": "14.2",
+    "Degrees Fahrenheit": "97.2",
+    "Walkability Percent": "84",
+    "lat": "40.7543",
+    "lng": "-73.969",
+    "zip": "10022"
+  },
+  {
+    "geography": "Murray Hill-Kips Bay",
+    "Coverage Percentage": "15.6",
+    "Degrees Fahrenheit": "97.8",
+    "Walkability Percent": "92",
+    "lat": "40.7442",
+    "lng": "-73.9775",
+    "zip": "10016"
+  },
+  {
+    "geography": "Gramercy",
+    "Coverage Percentage": "16.2",
+    "Degrees Fahrenheit": "99.9",
+    "Walkability Percent": "100",
+    "lat": "40.7368",
+    "lng": "-73.9841",
+    "zip": "10003"
+  },
+  {
+    "geography": "East Village",
+    "Coverage Percentage": "23.1",
+    "Degrees Fahrenheit": "98.3",
+    "Walkability Percent": "100",
+    "lat": "40.7276",
+    "lng": "-73.9859",
+    "zip": "10003"
+  },
+  {
+    "geography": "West Village",
+    "Coverage Percentage": "19.3",
+    "Degrees Fahrenheit": "98",
+    "Walkability Percent": "99",
+    "lat": "40.733",
+    "lng": "-74.0015",
+    "zip": "10014"
+  },
+  {
+    "geography": "SoHo-TriBeCa-Civic Center-Little Italy",
+    "Coverage Percentage": "9.5",
+    "Degrees Fahrenheit": "98.7",
+    "Walkability Percent": "100",
+    "lat": "40.7208",
+    "lng": "-74.0047",
+    "zip": "10013"
+  },
+  {
+    "geography": "Battery Park City-Lower Manhattan",
+    "Coverage Percentage": "14.4",
+    "Degrees Fahrenheit": "92.6",
+    "Walkability Percent": "98",
+    "lat": "40.708",
+    "lng": "-74.0102",
+    "zip": "10005"
+  },
+  {
+    "geography": "Chinatown",
+    "Coverage Percentage": "17.9",
+    "Degrees Fahrenheit": "97.8",
+    "Walkability Percent": "100",
+    "lat": "40.7156",
+    "lng": "-73.9946",
+    "zip": "10002"
+  },
+  {
+    "geography": "Lower East Side",
+    "Coverage Percentage": "31.8",
+    "Degrees Fahrenheit": "97.4",
+    "Walkability Percent": "100",
+    "lat": "40.7178",
+    "lng": "-73.9809",
+    "zip": "10002"
+  },
+  {
+    "geography": "Lenox Hill-Roosevelt Island",
+    "Coverage Percentage": "24.2",
+    "Degrees Fahrenheit": "96.2",
+    "Walkability Percent": "92",
+    "lat": "40.765",
+    "lng": "-73.9551",
+    "zip": "10065"
+  },
+  {
+    "geography": "Yorkville",
+    "Coverage Percentage": "21.8",
+    "Degrees Fahrenheit": "96.6",
+    "Walkability Percent": "94",
+    "lat": "40.7773",
+    "lng": "-73.9487",
+    "zip": "10128"
+  },
+  {
+    "geography": "East Harlem South",
+    "Coverage Percentage": "26.6",
+    "Degrees Fahrenheit": "97.8",
+    "Walkability Percent": "100",
+    "lat": "40.79",
+    "lng": "-73.9458",
+    "zip": "10029"
+  },
+  {
+    "geography": "East Harlem North",
+    "Coverage Percentage": "27.8",
+    "Degrees Fahrenheit": "98.2",
+    "Walkability Percent": "100",
+    "lat": "40.8012",
+    "lng": "-73.9373",
+    "zip": "10035"
+  },
+  {
+    "geography": "Washington Heights North",
+    "Coverage Percentage": "35.8",
+    "Degrees Fahrenheit": "94.6",
+    "Walkability Percent": "100",
+    "lat": "40.8571",
+    "lng": "-73.9328",
+    "zip": "10040"
+  },
+  {
+    "geography": "Washington Heights South",
+    "Coverage Percentage": "22.5",
+    "Degrees Fahrenheit": "95.6",
+    "Walkability Percent": "100",
+    "lat": "40.8417",
+    "lng": "-73.9414",
+    "zip": "10032"
+  },
+  {
+    "geography": "Upper East Side-Carnegie Hill",
+    "Coverage Percentage": "17.5",
+    "Degrees Fahrenheit": "97.5",
+    "Walkability Percent": "100",
+    "lat": "40.7747",
+    "lng": "-73.9612",
+    "zip": "10075"
+  },
+  {
+    "geography": "Stuyvesant Town-Cooper Village",
+    "Coverage Percentage": "42",
+    "Degrees Fahrenheit": "94.1",
+    "Walkability Percent": "100",
+    "lat": "40.7318",
+    "lng": "-73.9766",
+    "zip": "10009"
+  },
+  {
+    "geography": "South Jamaica",
+    "Coverage Percentage": "31.2",
+    "Degrees Fahrenheit": "102.8",
+    "Walkability Percent": "84",
+    "lat": "40.6944",
+    "lng": "-73.791",
+    "zip": "11433"
+  },
+  {
+    "geography": "Springfield Gardens North",
+    "Coverage Percentage": "41",
+    "Degrees Fahrenheit": "101.5",
+    "Walkability Percent": "76",
+    "lat": "40.6721",
+    "lng": "-73.773",
+    "zip": "11434"
+  },
+  {
+    "geography": "Springfield Gardens South-Brookville",
+    "Coverage Percentage": "34.7",
+    "Degrees Fahrenheit": "101.2",
+    "Walkability Percent": "85",
+    "lat": "40.6622",
+    "lng": "-73.7645",
+    "zip": "11413"
+  },
+  {
+    "geography": "Rosedale",
+    "Coverage Percentage": "50.9",
+    "Degrees Fahrenheit": "99.2",
+    "Walkability Percent": "58",
+    "lat": "40.6578",
+    "lng": "-73.7395",
+    "zip": "11422"
+  },
+  {
+    "geography": "Jamaica Estates-Holliswood",
+    "Coverage Percentage": "51.9",
+    "Degrees Fahrenheit": "98.4",
+    "Walkability Percent": "47",
+    "lat": "40.7207",
+    "lng": "-73.7761",
+    "zip": "11423"
+  },
+  {
+    "geography": "Hollis",
+    "Coverage Percentage": "34.1",
+    "Degrees Fahrenheit": "102.4",
+    "Walkability Percent": "50",
+    "lat": "40.7106",
+    "lng": "-73.7611",
+    "zip": "11423"
+  },
+  {
+    "geography": "St. Albans",
+    "Coverage Percentage": "38.3",
+    "Degrees Fahrenheit": "102.3",
+    "Walkability Percent": "54",
+    "lat": "40.6912",
+    "lng": "-73.7631",
+    "zip": "11412"
+  },
+  {
+    "geography": "Breezy Point-Belle Harbor-Rockaway Park-Broad Channel",
+    "Coverage Percentage": "30.8",
+    "Degrees Fahrenheit": "94.3",
+    "Walkability Percent": "98",
+    "lat": "40.5715",
+    "lng": "-73.8765",
+    "zip": "11697"
+  },
+  {
+    "geography": "Hammels-Arverne-Edgemere",
+    "Coverage Percentage": "35.8",
+    "Degrees Fahrenheit": "93.7",
+    "Walkability Percent": "95",
+    "lat": "40.5941",
+    "lng": "-73.7896",
+    "zip": "11692"
+  },
+  {
+    "geography": "Far Rockaway-Bayswater",
+    "Coverage Percentage": "36.8",
+    "Degrees Fahrenheit": "95.9",
+    "Walkability Percent": "70",
+    "lat": "40.6024",
+    "lng": "-73.7553",
+    "zip": "11691"
+  },
+  {
+    "geography": "Forest Hills",
+    "Coverage Percentage": "35.2",
+    "Degrees Fahrenheit": "98.6",
+    "Walkability Percent": "74",
+    "lat": "40.7214",
+    "lng": "-73.8477",
+    "zip": "11375"
+  },
+  {
+    "geography": "Rego Park",
+    "Coverage Percentage": "28.3",
+    "Degrees Fahrenheit": "100.1",
+    "Walkability Percent": "72",
+    "lat": "40.7262",
+    "lng": "-73.8633",
+    "zip": "11374"
+  },
+  {
+    "geography": "Glendale",
+    "Coverage Percentage": "23.4",
+    "Degrees Fahrenheit": "97.6",
+    "Walkability Percent": "64",
+    "lat": "40.7035",
+    "lng": "-73.8757",
+    "zip": "11385"
+  },
+  {
+    "geography": "Ridgewood",
+    "Coverage Percentage": "27.8",
+    "Degrees Fahrenheit": "96.4",
+    "Walkability Percent": "62",
+    "lat": "40.7065",
+    "lng": "-73.9017",
+    "zip": "11385"
+  },
+  {
+    "geography": "Middle Village",
+    "Coverage Percentage": "44.4",
+    "Degrees Fahrenheit": "98.5",
+    "Walkability Percent": "84",
+    "lat": "40.7183",
+    "lng": "-73.8801",
+    "zip": "11379"
+  },
+  {
+    "geography": "Flushing",
+    "Coverage Percentage": "22.2",
+    "Degrees Fahrenheit": "99.8",
+    "Walkability Percent": "90",
+    "lat": "40.7611",
+    "lng": "-73.8289",
+    "zip": "11354"
+  },
+  {
+    "geography": "College Point",
+    "Coverage Percentage": "28.4",
+    "Degrees Fahrenheit": "99.7",
+    "Walkability Percent": "85",
+    "lat": "40.7809",
+    "lng": "-73.8428",
+    "zip": "11356"
+  },
+  {
+    "geography": "Corona",
+    "Coverage Percentage": "16.4",
+    "Degrees Fahrenheit": "100.7",
+    "Walkability Percent": "86",
+    "lat": "40.7423",
+    "lng": "-73.8584",
+    "zip": "11368"
+  },
+  {
+    "geography": "North Corona",
+    "Coverage Percentage": "16.6",
+    "Degrees Fahrenheit": "100.3",
+    "Walkability Percent": "78",
+    "lat": "40.7526",
+    "lng": "-73.863",
+    "zip": "11368"
+  },
+  {
+    "geography": "East Elmhurst",
+    "Coverage Percentage": "27",
+    "Degrees Fahrenheit": "101.2",
+    "Walkability Percent": "92",
+    "lat": "40.7634",
+    "lng": "-73.8684",
+    "zip": "11369"
+  },
+  {
+    "geography": "Jackson Heights",
+    "Coverage Percentage": "24.8",
+    "Degrees Fahrenheit": "99",
+    "Walkability Percent": "64",
+    "lat": "40.7622",
+    "lng": "-73.8759",
+    "zip": "11369"
+  },
+  {
+    "geography": "Elmhurst",
+    "Coverage Percentage": "19.8",
+    "Degrees Fahrenheit": "100.9",
+    "Walkability Percent": "67",
+    "lat": "40.7395",
+    "lng": "-73.8771",
+    "zip": "11373"
+  },
+  {
+    "geography": "Maspeth",
+    "Coverage Percentage": "18.6",
+    "Degrees Fahrenheit": "99.7",
+    "Walkability Percent": "81",
+    "lat": "40.724",
+    "lng": "-73.9023",
+    "zip": "11378"
+  },
+  {
+    "geography": "Hunters Point-Sunnyside-West Maspeth",
+    "Coverage Percentage": "14.5",
+    "Degrees Fahrenheit": "99.1",
+    "Walkability Percent": "73",
+    "lat": "40.7398",
+    "lng": "-73.9312",
+    "zip": "11101"
+  },
+  {
+    "geography": "Cambria Heights",
+    "Coverage Percentage": "39.2",
+    "Degrees Fahrenheit": "102.4",
+    "Walkability Percent": "34",
+    "lat": "40.6943",
+    "lng": "-73.7356",
+    "zip": "11411"
+  },
+  {
+    "geography": "Queens Village",
+    "Coverage Percentage": "32.3",
+    "Degrees Fahrenheit": "102.7",
+    "Walkability Percent": "23",
+    "lat": "40.7155",
+    "lng": "-73.7415",
+    "zip": "11429"
+  },
+  {
+    "geography": "Briarwood-Jamaica Hills",
+    "Coverage Percentage": "31",
+    "Degrees Fahrenheit": "101.1",
+    "Walkability Percent": "78",
+    "lat": "40.7116",
+    "lng": "-73.8087",
+    "zip": "11432"
+  },
+  {
+    "geography": "Kew Gardens Hills",
+    "Coverage Percentage": "39.7",
+    "Degrees Fahrenheit": "100.3",
+    "Walkability Percent": "53",
+    "lat": "40.7264",
+    "lng": "-73.8187",
+    "zip": "11367"
+  },
+  {
+    "geography": "Pomonok-Flushing Heights-Hillcrest",
+    "Coverage Percentage": "37.3",
+    "Degrees Fahrenheit": "101.1",
+    "Walkability Percent": "60",
+    "lat": "40.7283",
+    "lng": "-73.8024",
+    "zip": "11366"
+  },
+  {
+    "geography": "Fresh Meadows-Utopia",
+    "Coverage Percentage": "47.6",
+    "Degrees Fahrenheit": "99.9",
+    "Walkability Percent": "69",
+    "lat": "40.7349",
+    "lng": "-73.7837",
+    "zip": "11365"
+  },
+  {
+    "geography": "Oakland Gardens",
+    "Coverage Percentage": "50.9",
+    "Degrees Fahrenheit": "98",
+    "Walkability Percent": "90",
+    "lat": "40.7427",
+    "lng": "-73.7546",
+    "zip": "11364"
+  },
+  {
+    "geography": "Bellerose",
+    "Coverage Percentage": "47.3",
+    "Degrees Fahrenheit": "100.6",
+    "Walkability Percent": "46",
+    "lat": "40.7355",
+    "lng": "-73.7267",
+    "zip": "11426"
+  },
+  {
+    "geography": "Glen Oaks-Floral Park-New Hyde Park",
+    "Coverage Percentage": "48.2",
+    "Degrees Fahrenheit": "100",
+    "Walkability Percent": "34",
+    "lat": "40.746",
+    "lng": "-73.711",
+    "zip": "11004"
+  },
+  {
+    "geography": "Douglas Manor-Douglaston-Little Neck",
+    "Coverage Percentage": "55.6",
+    "Degrees Fahrenheit": "97",
+    "Walkability Percent": "75",
+    "lat": "40.7637",
+    "lng": "-73.7369",
+    "zip": "11362"
+  },
+  {
+    "geography": "Bayside-Bayside Hills",
+    "Coverage Percentage": "42.7",
+    "Degrees Fahrenheit": "100.2",
+    "Walkability Percent": "59",
+    "lat": "40.7627",
+    "lng": "-73.7734",
+    "zip": "11361"
+  },
+  {
+    "geography": "Ft. Totten-Bay Terrace-Clearview",
+    "Coverage Percentage": "50.1",
+    "Degrees Fahrenheit": "98",
+    "Walkability Percent": "68",
+    "lat": "40.7833",
+    "lng": "-73.786",
+    "zip": "11361"
+  },
+  {
+    "geography": "Auburndale",
+    "Coverage Percentage": "38.3",
+    "Degrees Fahrenheit": "101.4",
+    "Walkability Percent": "68",
+    "lat": "40.751",
+    "lng": "-73.7879",
+    "zip": "11358"
+  },
+  {
+    "geography": "Whitestone",
+    "Coverage Percentage": "38",
+    "Degrees Fahrenheit": "99.9",
+    "Walkability Percent": "73",
+    "lat": "40.7882",
+    "lng": "-73.8156",
+    "zip": "11357"
+  },
+  {
+    "geography": "Elmhurst-Maspeth",
+    "Coverage Percentage": "21.2",
+    "Degrees Fahrenheit": "99.9",
+    "Walkability Percent": "78",
+    "lat": "40.7383",
+    "lng": "-73.8922",
+    "zip": "11377"
+  },
+  {
+    "geography": "Murray Hill",
+    "Coverage Percentage": "38.5",
+    "Degrees Fahrenheit": "100.1",
+    "Walkability Percent": "71",
+    "lat": "40.7684",
+    "lng": "-73.8095",
+    "zip": "11354"
+  },
+  {
+    "geography": "East Flushing",
+    "Coverage Percentage": "38.6",
+    "Degrees Fahrenheit": "101.4",
+    "Walkability Percent": "66",
+    "lat": "40.7541",
+    "lng": "-73.8073",
+    "zip": "11358"
+  },
+  {
+    "geography": "Woodhaven",
+    "Coverage Percentage": "22.5",
+    "Degrees Fahrenheit": "100.4",
+    "Walkability Percent": "75",
+    "lat": "40.6887",
+    "lng": "-73.8558",
+    "zip": "11421"
+  },
+  {
+    "geography": "Richmond Hill",
+    "Coverage Percentage": "19.4",
+    "Degrees Fahrenheit": "102.3",
+    "Walkability Percent": "68",
+    "lat": "40.6945",
+    "lng": "-73.8309",
+    "zip": "11418"
+  },
+  {
+    "geography": "South Ozone Park",
+    "Coverage Percentage": "24.5",
+    "Degrees Fahrenheit": "102.4",
+    "Walkability Percent": "40",
+    "lat": "40.6762",
+    "lng": "-73.8195",
+    "zip": "11420"
+  },
+  {
+    "geography": "Ozone Park",
+    "Coverage Percentage": "27.8",
+    "Degrees Fahrenheit": "101.3",
+    "Walkability Percent": "76",
+    "lat": "40.6756",
+    "lng": "-73.847",
+    "zip": "11417"
+  },
+  {
+    "geography": "Lindenwood-Howard Beach",
+    "Coverage Percentage": "43.2",
+    "Degrees Fahrenheit": "96.9",
+    "Walkability Percent": "89",
+    "lat": "40.6582",
+    "lng": "-73.8449",
+    "zip": "11414"
+  },
+  {
+    "geography": "Kew Gardens",
+    "Coverage Percentage": "45.8",
+    "Degrees Fahrenheit": "98.1",
+    "Walkability Percent": "77",
+    "lat": "40.708",
+    "lng": "-73.8287",
+    "zip": "11415"
+  },
+  {
+    "geography": "Jamaica",
+    "Coverage Percentage": "15",
+    "Degrees Fahrenheit": "102.6",
+    "Walkability Percent": "90",
+    "lat": "40.696",
+    "lng": "-73.7831",
+    "zip": "11433"
+  },
+  {
+    "geography": "Queensboro Hill",
+    "Coverage Percentage": "40.2",
+    "Degrees Fahrenheit": "100",
+    "Walkability Percent": "89",
+    "lat": "40.7431",
+    "lng": "-73.8196",
+    "zip": "11355"
+  },
+  {
+    "geography": "Woodside",
+    "Coverage Percentage": "20.3",
+    "Degrees Fahrenheit": "100.2",
+    "Walkability Percent": "64",
+    "lat": "40.7493",
+    "lng": "-73.9037",
+    "zip": "11377"
+  },
+  {
+    "geography": "Laurelton",
+    "Coverage Percentage": "36",
+    "Degrees Fahrenheit": "102.1",
+    "Walkability Percent": "23",
+    "lat": "40.6759",
+    "lng": "-73.7445",
+    "zip": "11413"
+  },
+  {
+    "geography": "Queensbridge-Ravenswood-Long Island City",
+    "Coverage Percentage": "18.9",
+    "Degrees Fahrenheit": "100",
+    "Walkability Percent": "90",
+    "lat": "40.7576",
+    "lng": "-73.9387",
+    "zip": "11101"
+  },
+  {
+    "geography": "Astoria",
+    "Coverage Percentage": "18",
+    "Degrees Fahrenheit": "97.6",
+    "Walkability Percent": "46",
+    "lat": "40.7679",
+    "lng": "-73.918",
+    "zip": "11102"
+  },
+  {
+    "geography": "Old Astoria",
+    "Coverage Percentage": "20.7",
+    "Degrees Fahrenheit": "97.6",
+    "Walkability Percent": "95",
+    "lat": "40.7716",
+    "lng": "-73.9283",
+    "zip": "11102"
+  },
+  {
+    "geography": "Steinway",
+    "Coverage Percentage": "22.4",
+    "Degrees Fahrenheit": "97.8",
+    "Walkability Percent": "64",
+    "lat": "40.7774",
+    "lng": "-73.9054",
+    "zip": "11105"
+  },
+  {
+    "geography": "Baisley Park",
+    "Coverage Percentage": "35.5",
+    "Degrees Fahrenheit": "101.7",
+    "Walkability Percent": "93",
+    "lat": "40.679",
+    "lng": "-73.791",
+    "zip": "11434"
+  },
+  {
+    "geography": "Annadale-Huguenot-Prince's Bay-Eltingville",
+    "Coverage Percentage": "64.1",
+    "Degrees Fahrenheit": "95.9",
+    "Walkability Percent": "68",
+    "lat": "40.5286",
+    "lng": "-74.1877",
+    "zip": "10312"
+  },
+  {
+    "geography": "New Springville-Bloomfield-Travis",
+    "Coverage Percentage": "62.4",
+    "Degrees Fahrenheit": "96.7",
+    "Walkability Percent": "58",
+    "lat": "40.5959",
+    "lng": "-74.1764",
+    "zip": "10314"
+  },
+  {
+    "geography": "Westerleigh",
+    "Coverage Percentage": "50.7",
+    "Degrees Fahrenheit": "99.2",
+    "Walkability Percent": "58",
+    "lat": "40.6169",
+    "lng": "-74.1254",
+    "zip": "10314"
+  },
+  {
+    "geography": "Grymes Hill-Clifton-Fox Hills",
+    "Coverage Percentage": "45.7",
+    "Degrees Fahrenheit": "95.5",
+    "Walkability Percent": "62",
+    "lat": "40.618",
+    "lng": "-74.0878",
+    "zip": "10304"
+  },
+  {
+    "geography": "Charleston-Richmond Valley-Tottenville",
+    "Coverage Percentage": "60.1",
+    "Degrees Fahrenheit": "94",
+    "Walkability Percent": "65",
+    "lat": "40.5255",
+    "lng": "-74.2336",
+    "zip": "10309"
+  },
+  {
+    "geography": "Mariner's Harbor-Arlington-Port Ivory-Graniteville",
+    "Coverage Percentage": "44.1",
+    "Degrees Fahrenheit": "100.2",
+    "Walkability Percent": "38",
+    "lat": "40.6313",
+    "lng": "-74.1674",
+    "zip": "10303"
+  },
+  {
+    "geography": "Grasmere-Arrochar-Ft. Wadsworth",
+    "Coverage Percentage": "51.8",
+    "Degrees Fahrenheit": "95.4",
+    "Walkability Percent": "67",
+    "lat": "40.6003",
+    "lng": "-74.0718",
+    "zip": "10305"
+  },
+  {
+    "geography": "West New Brighton-New Brighton-St. George",
+    "Coverage Percentage": "44.2",
+    "Degrees Fahrenheit": "96.7",
+    "Walkability Percent": "93",
+    "lat": "40.639",
+    "lng": "-74.1023",
+    "zip": "10301"
+  },
+  {
+    "geography": "Todt Hill-Emerson Hill-Heartland Village-Lighthouse Hill",
+    "Coverage Percentage": "70.2",
+    "Degrees Fahrenheit": "97.6",
+    "Walkability Percent": "62",
+    "lat": "40.5866",
+    "lng": "-74.133",
+    "zip": "10314"
+  },
+  {
+    "geography": "Oakwood-Oakwood Beach",
+    "Coverage Percentage": "51.9",
+    "Degrees Fahrenheit": "96",
+    "Walkability Percent": "61",
+    "lat": "40.562",
+    "lng": "-74.1226",
+    "zip": "10306"
+  },
+  {
+    "geography": "Port Richmond",
+    "Coverage Percentage": "36.4",
+    "Degrees Fahrenheit": "101.6",
+    "Walkability Percent": "56",
+    "lat": "40.6324",
+    "lng": "-74.1469",
+    "zip": "10303"
+  },
+  {
+    "geography": "Rossville-Woodrow",
+    "Coverage Percentage": "56.6",
+    "Degrees Fahrenheit": "96.9",
+    "Walkability Percent": "54",
+    "lat": "40.5403",
+    "lng": "-74.2078",
+    "zip": "10309"
+  },
+  {
+    "geography": "New Brighton-Silver Lake",
+    "Coverage Percentage": "47",
+    "Degrees Fahrenheit": "96.6",
+    "Walkability Percent": "83",
+    "lat": "40.63",
+    "lng": "-74.1029",
+    "zip": "10301"
+  },
+  {
+    "geography": "Old Town-Dongan Hills-South Beach",
+    "Coverage Percentage": "44.3",
+    "Degrees Fahrenheit": "97.1",
+    "Walkability Percent": "66",
+    "lat": "40.5868",
+    "lng": "-74.0855",
+    "zip": "10305"
+  },
+  {
+    "geography": "Stapleton-Rosebank",
+    "Coverage Percentage": "53.6",
+    "Degrees Fahrenheit": "96.4",
+    "Walkability Percent": "62",
+    "lat": "40.6187",
+    "lng": "-74.0737",
+    "zip": "10304"
+  },
+  {
+    "geography": "New Dorp-Midland Beach",
+    "Coverage Percentage": "43.1",
+    "Degrees Fahrenheit": "99.1",
+    "Walkability Percent": "66",
+    "lat": "40.5718",
+    "lng": "-74.105",
+    "zip": "10306"
+  },
+  {
+    "geography": "Arden Heights",
+    "Coverage Percentage": "54",
+    "Degrees Fahrenheit": "97.7",
+    "Walkability Percent": "52",
+    "lat": "40.5527",
+    "lng": "-74.1885",
+    "zip": "10312"
+  },
+  {
+    "geography": "Great Kills",
+    "Coverage Percentage": "48.6",
+    "Degrees Fahrenheit": "98.5",
+    "Walkability Percent": "60",
+    "lat": "40.5519",
+    "lng": "-74.1509",
+    "zip": "10308"
+  }
+]

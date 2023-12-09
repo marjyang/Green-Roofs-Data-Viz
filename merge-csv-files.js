@@ -82,7 +82,7 @@ async function processDatasets(firstCsvFilePath, secondCsvFilePath, thirdCsvFile
 const firstCsvFilePath = 'csv-files/daytime-surface.csv'; // Replace with the path to your first CSV file
 const secondCsvFilePath = 'csv-files/vegetative-cover.csv'; // Replace with the path to your second CSV file
 const thirdCsvFilePath = 'csv-files/walking-distance.csv'; // Replace with the path to your third CSV file
-const outputFilePath = 'merged_geocoded_dataset-2.csv';
+const outputFilePath = 'merged_geocoded_dataset-3.csv';
 
 // Process the datasets
 processDatasets(firstCsvFilePath, secondCsvFilePath, thirdCsvFilePath, outputFilePath);

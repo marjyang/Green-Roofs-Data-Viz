@@ -40,4 +40,4 @@ async function transferLatLng(sourceFilePath, targetFilePath, outputFilePath) {
 }
 
 // Run the function with file paths
-transferLatLng('GeoLookup-full.csv', 'merged_geocoded_dataset-2.csv', 'updated_target.csv');
+transferLatLng('GeoLookup-full.csv', 'merged_geocoded_dataset-2.csv', 'final-merged.csv');
