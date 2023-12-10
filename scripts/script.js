@@ -27,8 +27,8 @@ function displayResults(data) {
             htmlContent += `<li>The temperuature you experience in the summers are: ${row.summertemp} F</li>`
             htmlContent += `<li>This must be because the vegetation cover in your neighborhood is only ${row.vegcoverage}%!</li>`
             htmlContent += `<li>According to an NYT article, with more vegetation, and less concrete, your temperature could be ${row.summertemp-9.5} F</li>`
-            htmlContent += `<li>your walkability to a park is approximately: ${row.walkability} %.</li>`
-            htmlContent += `<li>wouldn't it be amazing if you also had a green space right above you?</li>`
+            htmlContent += `<li>Your walkability to a park is approximately: ${row.walkability} %.</li>`
+            htmlContent += `<li>Wouldn't it be amazing if you also had a green space right above you?</li>`
         })
         htmlContent += '</ul>';
         resultContainer.innerHTML = htmlContent;
