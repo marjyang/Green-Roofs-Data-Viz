@@ -18,9 +18,12 @@ function loadData() {
 // }
 
 function displayResults(data) {
+    var map = document.getElementById('map');
     var resultContainer = document.getElementById('result-container');
 
     if (data.length > 0) {
+        map.style.display="block";
+
         let htmlContent = '<ul>';
         data.forEach(row => {
             htmlContent += `<li>You live in neighborhood: ${row.geography}</li>`; // Replace 'geogrpahy' with the actual property name
