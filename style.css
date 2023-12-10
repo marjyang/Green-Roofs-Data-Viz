@@ -1,12 +1,10 @@
-#map {
-    height: 700px;
-}
-
 body {
     font-family: 'Satoshi', sans-serif;
 }
 
-h1 {}
+h1 {
+    text-align: center;
+}
 
 #search-container {
     text-align: center;
@@ -21,4 +19,64 @@ h1 {}
 li {
     list-style: none;
     ;
+}
+
+
+/* Style for the wrapper */
+
+#output {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    width: 90%;
+    height: 700px;
+    margin: auto;
+    padding-top: 20px;
+}
+
+#result-container {
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#map {
+    height: 700px;
+    width: 60%;
+}
+
+.marker {
+    color: red;
+}
+
+
+/* Style for the popup content */
+
+.leaflet-popup-content {
+    /* Font family */
+    font-size: 18px;
+    /* Font size */
+    color: #333333;
+    /* Text color */
+    background-color: #ffffff;
+    /* Background color */
+    padding: 10px;
+    /* Padding inside the popup */
+    border-radius: 8px;
+    /* Rounded corners */
+}
+
+.leaflet-popup-content h4 {
+    margin: 0 0 5px 0;
+    /* Space below the header */
+    font-size: 24px;
+}
+
+.leaflet-popup-content p {
+    margin: 2px 0;
+    /* Margin around each paragraph */
+    line-height: 1.4;
+    /* Line height of the text */
+    font-size: 18px;
 }
