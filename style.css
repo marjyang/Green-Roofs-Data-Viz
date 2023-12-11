@@ -1,3 +1,31 @@
+@media (max-width: 900px){
+    #output {
+        display: flex;
+        justify-content: flex-start !important;
+        align-items:  center !important;
+        flex-direction: column !important;
+        width: 95vw !important;
+        height: 100vh !important;
+        padding-top: 20px;
+        gap: none !important;
+        margin: 0  !important;
+    }
+
+    #search-container {
+        width: 80vw;
+    }
+
+    #map {
+        height: 30vh !important;
+        width: 90vw !important;
+        
+    }
+    #result-container {
+        text-align: left;
+        width: 90vw !important;
+    }
+
+}
     body {
         font-family: 'Satoshi', sans-serif;
         background-color: #FDFAF4;
@@ -13,7 +41,6 @@
     }
     
     #search-container {
-        /* text-align: center; */
         display: flex;
         align-items: center;
         flex-direction: column;
@@ -33,7 +60,6 @@
     /* Style for the wrapper */
     
     .search-wrapper {
-        /* margin: auto; */
         height: 100vh;
         display: flex;
         align-items: center;
