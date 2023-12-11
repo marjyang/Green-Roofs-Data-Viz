@@ -6,6 +6,20 @@ document.getElementById('search-button').addEventListener('click', function() {
     }).catch(error => console.error('Error:', error));
 });
 
+document.getElementById('search-button').addEventListener('click', function() {
+    performSearch();
+});
+
+// Event listener for pressing 'Enter' on the zip code input
+document.getElementById('zip-code-input').addEventListener('keypress', function(event) {
+    if (event.key === 'Enter') {
+        event.preventDefault(); // Prevent the default form submit behavior
+        var inputZip = document.getElementById('zip-code-input').value;
+        searchByZipCode(inputZip);
+    }
+});
+
+
 function loadData() {
     return fetch('final-merged.json') // Replace 'data.json' with the path to your JSON file
         .then(response => response.json());
@@ -22,19 +36,19 @@ function displayResults(data) {
     // var dataRow = document.querySelector('.data-row');
 
     if (data.length > 0) {
-        map.style.opacity="1";
+        map.style.opacity = "1";
         searchCon.style.flexDirection = "row";
         searchWrap.style.height = "auto";
         searchBtn.style.marginLeft = "20px";
-        title.style.marginBottom="0";
-        title.style.marginTop="30px";
+        title.style.marginBottom = "0";
+        title.style.marginTop = "30px";
         resetBtn.style.opacity = "1";
 
         let htmlContent = '<ul>';
-        if (data.length > 1){
+        if (data.length > 1) {
             resultContainer.style.fontSize = "16px";
             htmlContent += `<li><i>We found 2 data points for your zip code.</i></li><br>`
-        } 
+        }
         data.forEach(row => {
             htmlContent += `<li>You live in <span class="data-text">${row.geography}</span></li>`; // Replace 'geogrpahy' with the actual property name
             htmlContent += `<li>The temperature you experience in the summers is around <span class="data-text">${row.summertemp} F </span></li>`
@@ -45,8 +59,8 @@ function displayResults(data) {
         })
         htmlContent += '</ul>';
         resultContainer.innerHTML = htmlContent;
-    } else{
+    } else {
         resultContainer.innerHTML = `<i>No results found. We're currently working on adding more zip codes into our database. Thank you for your patience!</i>`;
-        
+
     }
 }

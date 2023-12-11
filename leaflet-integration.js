@@ -5,6 +5,21 @@ L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
 }).addTo(map);
 
+// Event listener for the search button
+document.getElementById('search-button').addEventListener('click', function() {
+    var inputZip = document.getElementById('zip-code-input').value;
+    searchByZipCode(inputZip);
+});
+
+// Event listener for pressing 'Enter' on the zip code input
+document.getElementById('zip-code-input').addEventListener('keypress', function(event) {
+    if (event.key === 'Enter') {
+        event.preventDefault(); // Prevent the default form submit behavior
+        // Simulate a click on the search button
+        document.getElementById('search-button').click();
+    }
+});
+
 // Function to add markers to the map
 function addMarkers(data) {
     data.forEach(point => {
@@ -38,11 +53,6 @@ fetch('final-merged.json')
     })
     .catch(error => console.error('Error loading JSON data:', error));
 
-// Event listener for the search button
-document.getElementById('search-button').addEventListener('click', function() {
-    var inputZip = document.getElementById('zip-code-input').value;
-    searchByZipCode(inputZip);
-});
 
 // Function to search and display markers by zip code
 function searchByZipCode(zipCode) {
