@@ -6,8 +6,8 @@
     h1 {
         text-align: center;
     }
-
-    #result-container{
+    
+    #result-container {
         width: 50vw;
     }
     
@@ -26,15 +26,15 @@
         font-size: 24px;
         margin-bottom: 10px;
     }
-
-    .two-data{
+    
+    .two-data {
         font-size: 16px;
     }
     /* Style for the wrapper */
     
     .search-wrapper {
         /* margin: auto; */
-        height:100vh;
+        height: 100vh;
         display: flex;
         align-items: center;
         flex-direction: column;
@@ -46,18 +46,19 @@
         width: 100%;
         padding: 20px;
         border-radius: 20px;
-        border:none;
+        border: none;
         outline: 2px solid black;
         background-color: #FDFAF4;
         margin-bottom: 50px;
     }
-
-    #zip-code-input:focus{
+    
+    #zip-code-input:focus {
         outline: 2px solid blue;
-        border:none;
+        border: none;
     }
+    
     #search-button {
-        background-color: #372B2B; 
+        background-color: #372B2B;
         border: none;
         border-radius: 20px;
         color: #FDFAF4;
@@ -69,9 +70,9 @@
         font-size: 20px;
         margin-bottom: 50px;
     }
-
-    #search-button:hover{
-        background-color: blue; 
+    
+    #search-button:hover {
+        background-color: blue;
         color: #FDFAF4;
         /* outline: */
     }
@@ -88,16 +89,17 @@
         height: 550px;
         padding-top: 20px;
     }
-
+    
     #map {
         height: 500px;
         width: 50vw;
-        opacity:0;
+        opacity: 0;
+        border-radius: 12px;
     }
-
-    .data-text{
+    
+    .data-text {
         /* color: rgb(47, 0, 255) !important; */
-        background-color:  rgb(210, 255, 120);
+        background-color: rgb(210, 255, 120);
         border-radius: 12px;
         padding: 3px;
     }
@@ -105,7 +107,6 @@
     .marker {
         color: red;
     }
-
     /* Style for the popup content */
     
     .leaflet-popup-content {
