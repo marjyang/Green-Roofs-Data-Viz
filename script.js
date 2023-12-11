@@ -18,6 +18,7 @@ function displayResults(data) {
     var searchWrap = document.querySelector('.search-wrapper');
     var searchBtn = document.getElementById('search-button');
     var title = document.querySelector('h1');
+    var resetBtn = document.getElementById('reset-button');
     // var dataRow = document.querySelector('.data-row');
 
     if (data.length > 0) {
@@ -27,6 +28,7 @@ function displayResults(data) {
         searchBtn.style.marginLeft = "20px";
         title.style.marginBottom="0";
         title.style.marginTop="30px";
+        resetBtn.style.opacity = "1";
 
         let htmlContent = '<ul>';
         if (data.length > 1){

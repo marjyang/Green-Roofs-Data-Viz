@@ -17,12 +17,16 @@
 
     #map {
         height: 30vh !important;
-        width: 90vw !important;
+        width: 80vw !important;
 
     }
     #result-container {
         text-align: left;
         width: 90vw !important;
+    }
+
+    #reset-button{
+        left: 80vw !important;
     }
 
 }
@@ -103,6 +107,26 @@
         color: #FDFAF4;
         /* outline: */
     }
+
+    #reset-button{
+        opacity:0;
+        display:block;
+        background-color: #FDFAF4;
+        outline: 2px solid #372B2B;
+        border: none;
+        border-radius: 20px;
+        color: #372B2B;
+        padding: 15px 20px;
+        text-align: center;
+        font-family: 'Satoshi', sans-serif;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 20px;
+        cursor: pointer;
+        position: fixed;
+        top: 90vh;
+        left: 92vw;
+    }
     
     #result-container {
         text-align: left;
@@ -158,3 +182,4 @@
         /* Line height of the text */
         font-size: 16px;
     }
+
