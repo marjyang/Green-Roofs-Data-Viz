@@ -9,6 +9,7 @@
     
     #result-container {
         width: 50vw;
+        font-size: 24px;
     }
     
     #search-container {
@@ -23,7 +24,6 @@
     li {
         list-style: none;
         line-height: 1.4;
-        font-size: 24px;
         margin-bottom: 10px;
     }
     
@@ -69,6 +69,7 @@
         display: inline-block;
         font-size: 20px;
         margin-bottom: 50px;
+        cursor: pointer;
     }
     
     #search-button:hover {
