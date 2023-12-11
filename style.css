@@ -1,91 +1,131 @@
     body {
         font-family: 'Satoshi', sans-serif;
+        background-color: #FDFAF4;
     }
     
     h1 {
         text-align: center;
     }
-    
-    #search-container {
-        text-align: center;
-        margin-top: 20px;
+
+    #result-container{
+        width: 50vw;
     }
     
-    #result-container {
+    #search-container {
+        /* text-align: center; */
+        display: flex;
+        align-items: center;
+        flex-direction: column;
         margin-top: 20px;
-        text-align: center;
+        width: 30vw;
     }
     
     li {
         list-style: none;
-        ;
+        line-height: 1.4;
+        font-size: 24px;
+        margin-bottom: 10px;
+    }
+
+    .two-data{
+        font-size: 16px;
     }
     /* Style for the wrapper */
     
-    #output {
-        display: flex;
-        justify-content: center;
-        flex-direction: row;
-        width: 90%;
-        height: 700px;
-        margin: auto;
-        padding-top: 20px;
-    }
-    
     .search-wrapper {
-        margin: auto;
-        width: 60vw;
-        transform: translateY(80%);
+        /* margin: auto; */
+        height:100vh;
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        justify-content: center;
+        width: 100vw;
     }
     
     #zip-code-input {
         width: 100%;
         padding: 20px;
         border-radius: 20px;
+        border:none;
+        outline: 2px solid black;
+        background-color: #FDFAF4;
+        margin-bottom: 50px;
+    }
+
+    #zip-code-input:focus{
+        outline: 2px solid blue;
+        border:none;
+    }
+    #search-button {
+        background-color: #372B2B; 
+        border: none;
+        border-radius: 20px;
+        color: #FDFAF4;
+        padding: 15px 20px;
+        text-align: center;
+        font-family: 'Satoshi', sans-serif;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 20px;
+        margin-bottom: 50px;
+    }
+
+    #search-button:hover{
+        background-color: blue; 
+        color: #FDFAF4;
+        /* outline: */
     }
     
     #result-container {
         text-align: left;
-        display: flex;
-        flex-direction: column;
-        align-items: center;
     }
     
+    #output {
+        display: flex;
+        justify-content: space-evenly;
+        flex-direction: row;
+        width: 95vw;
+        height: 550px;
+        padding-top: 20px;
+    }
+
     #map {
-        height: 700px;
-        width: 60%;
-        display: none;
+        height: 500px;
+        width: 50vw;
+        opacity:0;
+    }
+
+    .data-text{
+        /* color: rgb(47, 0, 255) !important; */
+        background-color:  rgb(210, 255, 120);
+        border-radius: 12px;
+        padding: 3px;
     }
     
     .marker {
         color: red;
     }
+
     /* Style for the popup content */
     
     .leaflet-popup-content {
-        /* Font family */
-        font-size: 18px;
-        /* Font size */
+        font-size: 14px;
         color: #333333;
-        /* Text color */
         background-color: #ffffff;
-        /* Background color */
         padding: 10px;
-        /* Padding inside the popup */
         border-radius: 8px;
-        /* Rounded corners */
     }
     
     .leaflet-popup-content h4 {
         margin: 0 0 5px 0;
         /* Space below the header */
-        font-size: 24px;
+        font-size: 20px;
     }
     
     .leaflet-popup-content p {
         margin: 2px 0;
         /* Margin around each paragraph */
-        line-height: 1.4;
+        line-height: 1.2;
         /* Line height of the text */
-        font-size: 18px;
+        font-size: 16px;
     }
