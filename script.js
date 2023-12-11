@@ -46,7 +46,7 @@ function displayResults(data) {
         htmlContent += '</ul>';
         resultContainer.innerHTML = htmlContent;
     } else{
-        resultContainer.innerHTML = `<i>No results found</i>`;
+        resultContainer.innerHTML = `<i>No results found. We're currently working on adding more zip codes into our database. Thank you for your patience!</i>`;
         
     }
 }
