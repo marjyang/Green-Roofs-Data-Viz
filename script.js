@@ -11,12 +11,6 @@ function loadData() {
         .then(response => response.json());
 }
 
-// function displayResults(data) {
-//     // Process and display the data
-//     var resultContainer = document.getElementById('result-container');
-//     resultContainer.innerHTML = data.length > 0 ? JSON.stringify(data) : 'No results found';
-// }
-
 function displayResults(data) {
     var map = document.getElementById('map');
     var resultContainer = document.getElementById('result-container');
@@ -24,6 +18,7 @@ function displayResults(data) {
     var searchWrap = document.querySelector('.search-wrapper');
     var searchBtn = document.getElementById('search-button');
     var title = document.querySelector('h1');
+    // var dataRow = document.querySelector('.data-row');
 
     if (data.length > 0) {
         map.style.opacity="1";
@@ -35,6 +30,7 @@ function displayResults(data) {
 
         let htmlContent = '<ul>';
         if (data.length > 1){
+            resultContainer.style.fontSize = "16px";
             htmlContent += `<li><i>We found 2 data points for your zip code.</i></li><br>`
         } 
         data.forEach(row => {
@@ -49,5 +45,6 @@ function displayResults(data) {
         resultContainer.innerHTML = htmlContent;
     } else{
         resultContainer.innerHTML = `<i>No results found</i>`;
+        
     }
 }
