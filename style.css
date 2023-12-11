@@ -1,4 +1,4 @@
-@media (max-width: 900px){
+@media (max-width: 1000px){
     #output {
         display: flex;
         justify-content: flex-start !important;
@@ -18,7 +18,7 @@
     #map {
         height: 30vh !important;
         width: 90vw !important;
-        
+
     }
     #result-container {
         text-align: left;
