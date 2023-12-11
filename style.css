@@ -11,6 +11,9 @@
         margin: 0  !important;
     }
 
+    h1{
+        width: 50vw !important;
+    }
     #search-container {
         width: 50vw !important;
     }
