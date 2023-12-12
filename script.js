@@ -38,10 +38,8 @@ function displayResults(data) {
     var searchBtn = document.getElementById('search-button');
     var title = document.querySelector('h1');
     var resetBtn = document.getElementById('reset-button');
-    // var dataRow = document.querySelector('.data-row');
 
-    if (data.length > 0) {
-        map.style.opacity = "1";
+    map.style.opacity = "1";
         searchCon.style.flexDirection = "row";
         searchWrap.style.height = "auto";
         searchWrap.style.overflow = "auto";
@@ -51,6 +49,8 @@ function displayResults(data) {
         resetBtn.style.opacity = "1";
         body.style.height = "auto";
         body.style.overflowY = "visible";
+        
+    if (data.length > 0) {
 
         let htmlContent = '<ul>';
         if (data.length > 1) {
