@@ -48,6 +48,8 @@
     body {
         font-family: 'Satoshi', sans-serif;
         background-color: #FDFAF4;
+        height: 100vh;
+        overflow-y: hidden;
     }
     
     h1 {

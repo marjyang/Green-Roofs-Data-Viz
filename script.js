@@ -30,6 +30,7 @@ function loadData() {
 }
 
 function displayResults(data) {
+    var body = document.querySelector('body');
     var map = document.getElementById('map');
     var resultContainer = document.getElementById('result-container');
     var searchCon = document.getElementById('search-container');
@@ -43,10 +44,13 @@ function displayResults(data) {
         map.style.opacity = "1";
         searchCon.style.flexDirection = "row";
         searchWrap.style.height = "auto";
+        searchWrap.style.overflow = "auto";
         searchBtn.style.marginLeft = "20px";
         title.style.marginBottom = "0";
         title.style.marginTop = "30px";
         resetBtn.style.opacity = "1";
+        body.style.height = "auto";
+        body.style.overflowY = "visible";
 
         let htmlContent = '<ul>';
         if (data.length > 1) {
