@@ -55,9 +55,9 @@ function displayResults(data) {
         }
         data.forEach(row => {
             htmlContent += `<li>You live in <span class="data-text">${row.geography}</span></li>`; // Replace 'geogrpahy' with the actual property name
-            htmlContent += `<li>The temperature you experience in the summers is around <span class="data-text">${row.summertemp} F </span></li>`
+            htmlContent += `<li>The temperature you experience in the summers is around <span class="data-text">${row.summertemp}°F </span></li>`
             htmlContent += `<li>This must be because the vegetation cover in your neighborhood is only <span class="data-text">${row.vegcoverage}%</span></li>`
-            htmlContent += `<li>With more vegetation, and less concrete, your temperature could be reduced to <span class="data-text">${row.summertemp-9.5} F</span></li>`
+            htmlContent += `<li>With more vegetation, and less concrete, your temperature could be reduced to <span class="data-text">${row.summertemp-9.5}°F</span></li>`
             htmlContent += `<li>Your walkability to a park is approximately <span class="data-text">${row.walkability}%</span></li>`
             htmlContent += `<li>Wouldn't it be amazing if you also had a green space right above you?</li><br>`
         })
