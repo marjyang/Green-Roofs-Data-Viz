@@ -10,6 +10,10 @@ document.getElementById('search-button').addEventListener('click', function() {
     performSearch();
 });
 
+document.getElementById('reset-button').addEventListener('click', function() {
+    window.scrollTo(0, 0);
+});
+
 // Event listener for pressing 'Enter' on the zip code input
 document.getElementById('zip-code-input').addEventListener('keypress', function(event) {
     if (event.key === 'Enter') {
