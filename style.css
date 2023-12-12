@@ -10,8 +10,9 @@
         align-items: center !important;
         flex-direction: column !important;
         width: 86vw !important;
-        height: 87vh !important;
+        height: auto !important;
         padding-top: 20px;
+        padding-bottom: 20px;
         gap: none !important;
         margin: auto !important;
     }
