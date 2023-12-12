@@ -1,3 +1,4 @@
+window.scrollTo(0, 0);
 document.getElementById('search-button').addEventListener('click', function() {
     var zip = document.getElementById('zip-code-input').value;
     loadData().then(data => {
