@@ -45,7 +45,7 @@
             overflow-x: hidden;
         }
         #zip-code-input {
-            background-color: white;
+            background-color: white !important;
         }
         .search-wrapper {
             display: block;
