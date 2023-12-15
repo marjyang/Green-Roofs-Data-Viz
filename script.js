@@ -57,7 +57,7 @@ function displayResults(data) {
         if (data.length > 1) {
             resultContainer.style.fontSize = "14px";
             resultContainer.style.lineHeight = "1.0";
-            htmlContent += `<li><i>We found 2 data points for your zip code.</i></li><br>`
+            htmlContent += `<li><i>We found ${data.length} data points for your zip code.</i></li><br>`
         }
         data.forEach(row => {
             htmlContent += `<li>You live in <span class="data-text">${row.geography}</span></li>`; // Replace 'geogrpahy' with the actual property name
