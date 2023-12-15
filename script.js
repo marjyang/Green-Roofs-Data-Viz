@@ -55,7 +55,8 @@ function displayResults(data) {
 
         let htmlContent = '<ul>';
         if (data.length > 1) {
-            resultContainer.style.fontSize = "16px";
+            resultContainer.style.fontSize = "14px";
+            resultContainer.style.lineHeight = "1.0";
             htmlContent += `<li><i>We found 2 data points for your zip code.</i></li><br>`
         }
         data.forEach(row => {

@@ -29,7 +29,8 @@
         #result-container {
             text-align: left;
             width: 100% !important;
-            font-size: 18px !important;
+            font-size: 18px ;
+            line-height: 1.4;
         }
         #reset-button {
             left: 80vw !important;
@@ -48,7 +49,7 @@
         }
         .search-wrapper {
             display: block;
-            top: 30vh:
+            top: 30vh;
         }
     }
     
@@ -81,7 +82,6 @@
     
     li {
         list-style: none;
-        line-height: 1.4;
         margin-bottom: 10px;
     }
     
@@ -149,10 +149,11 @@
         text-decoration: none;
         font-size: 20px;
         cursor: pointer;
-        position: sticky;
-        /* top: 70vh; */
+        position: fixed;
+        top: 90vh;
         left: 91vw;
         margin-bottom: 20px;
+        z-index: 10000;
     }
     
     #result-container {
