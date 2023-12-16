@@ -41,11 +41,11 @@
             margin: 0;
         }
         body {
-            background-image: url("900-bg.png");
+            background-image: url("flower-bg.png");
             overflow-x: hidden;
         }
         #zip-code-input {
-            background-color: white !important;
+            /* background-color: white !important; */
         }
         .search-wrapper {
             display: block;
