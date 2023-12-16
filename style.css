@@ -9,7 +9,7 @@
             justify-content: flex-start !important;
             align-items: center !important;
             flex-direction: column !important;
-            width: 86vw !important;
+            width: 90vw !important;
             height: auto !important;
             padding-top: 20px;
             padding-bottom: 20px;
@@ -43,10 +43,9 @@
         body {
             background-image: url("flower-bg.png");
             overflow-x: hidden;
+            overflow-y: hidden !important;
         }
-        #zip-code-input {
-            /* background-color: white !important; */
-        }
+        
         .search-wrapper {
             display: block;
             top: 30vh;
